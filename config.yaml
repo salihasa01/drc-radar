@@ -19,6 +19,12 @@ translate: true
 # Bir taramada en fazla kaç haber çevrilsin (kalanlar sonraki taramada çevrilir)
 translate_limit: 80
 
+# Özet uzunluğu (kelime). Kaynağın verdiği özet bundan kısaysa haberin kendi sayfasından
+# ilk paragraflar alınır. 0 yazarsanız bu özellik kapanır.
+summary_words: 90
+# Bir taramada en fazla kaç haberin sayfası okunsun
+enrich_limit: 25
+
 sources:
   # --- Doğrudan RSS yayınlayan siteler ---
   - name: BBC
