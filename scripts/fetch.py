@@ -114,15 +114,38 @@ def send_telegram(items):
             print(f"  ! Telegram hatası: {ex}", file=sys.stderr)
 
 
+def _gtx(text):
+    """Google Çeviri'nin herkese açık JSON adresi (anahtar gerektirmez)."""
+    q = urllib.parse.urlencode({"client": "gtx", "sl": "auto", "tl": "tr", "dt": "t", "q": text})
+    req = urllib.request.Request(f"https://translate.googleapis.com/translate_a/single?{q}",
+                                 headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=15) as r:
+        data = json.loads(r.read().decode("utf-8"))
+    return "".join(seg[0] for seg in data[0] if seg and seg[0]).strip()
+
+
+def _deep(text):
+    """Yedek yöntem: deep-translator kütüphanesi."""
+    from deep_translator import GoogleTranslator
+    return (GoogleTranslator(source="auto", target="tr").translate(text) or "").strip()
+
+
+def translate(text):
+    errors = []
+    for fn in (_gtx, _deep):
+        try:
+            out = fn(text)
+            if out:
+                return out
+            errors.append(f"{fn.__name__}: boş sonuç")
+        except Exception as ex:
+            errors.append(f"{fn.__name__}: {type(ex).__name__}: {ex}")
+    raise RuntimeError(" | ".join(errors))
+
+
 def translate_items(items, limit):
     """Türkçe karşılığı olmayan haberleri ücretsiz Google Çeviri ile çevirir.
     Çeviri başarısız olursa haber orijinal diliyle kalır, bir sonraki taramada yeniden denenir."""
-    try:
-        from deep_translator import GoogleTranslator
-    except ImportError:
-        print("  ! deep-translator kurulu değil, çeviri atlandı", file=sys.stderr)
-        return
-    tr = GoogleTranslator(source="auto", target="tr")
     done = fails = 0
     for it in items:
         if done >= limit or fails >= 3:
@@ -130,15 +153,15 @@ def translate_items(items, limit):
         if it.get("title_tr"):
             continue
         try:
-            it["title_tr"] = (tr.translate(it["title"]) or "").strip() or it["title"]
+            it["title_tr"] = translate(it["title"])
             if it.get("summary"):
-                it["summary_tr"] = (tr.translate(it["summary"]) or "").strip()
+                it["summary_tr"] = translate(it["summary"])
             done += 1
-            time.sleep(0.4)
+            time.sleep(0.3)
         except Exception as ex:
             fails += 1
-            print(f"  ! Çeviri hatası: {ex}", file=sys.stderr)
-    print(f"Çevrilen: {done}")
+            print(f"  ! Çeviri hatası: {ex}")
+    print(f"Çevrilen: {done} | Hata: {fails}")
 
 
 def main():
