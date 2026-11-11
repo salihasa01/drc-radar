@@ -1,6 +1,6 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-11T18:58:29.308884+00:00",
+ "generated_at": "2026-11-11T19:03:02.166084+00:00",
  "sources": [
   {
    "source": "BBC",
@@ -51,7 +51,8 @@
    "tags": [
     "kill",
     "rebels"
-   ]
+   ],
+   "title_tr": "IŞİD bağlantılı isyancılar Kongo'nun doğu bölgesinde en az 22 kişiyi öldürdü"
   },
   {
    "id": "4e5d09f328bf2446",
@@ -65,7 +66,9 @@
    "tags": [
     "milice",
     "rebelles"
-   ]
+   ],
+   "title_tr": "KDC: Dışişleri Bakanı'na göre isyancıların gerçek lideri Kabila değil, Kagame'dir",
+   "summary_tr": "Kongo Dışişleri Bakanı Thérèse Kayikwamba Wagner, France 24'e verdiği bir röportajda, Ruanda Devlet Başkanı Paul Kagame'yi eski Devlet Başkanı Joseph Kabila'nın asi cephesinin \"gerçek lideri\" olarak görüyor. Ruanda silahlı kuvvetlerinin \"arttığı\" bir varlığını kınamakta ve Ruanda Demokratik Kurtuluş Güçleri'nin Hutu milisleriyle herhangi bir devlet işbirliğini reddetmektedir."
   },
   {
    "id": "a3810ebf5b5a8bcd",
@@ -79,7 +82,8 @@
    "tags": [
     "ebola",
     "outbreak"
-   ]
+   ],
+   "title_tr": "Kongo'daki en ölümcül salgında Ebola vakaları 11 bini aştı"
   },
   {
    "id": "a4a4e774071faefe",
@@ -92,7 +96,9 @@
    "priority": "normal",
    "tags": [
     "guerre"
-   ]
+   ],
+   "title_tr": "DRC/Ruanda çatışması ve iç muhalefet: OIF'de gergin bir seçim",
+   "summary_tr": "16 Kasım'da Uluslararası Frankofoni Örgütü'nün (OIF) Devlet ve Hükûmet Başkanları, Kamboçya'da ilk kez oylama yoluyla Genel Sekreterlerini seçebilirler. Daha önce nadiren bu kadar çekişmeli bir yarış yaşanmıştır: Demokratik Kongo Cumhuriyeti (DKC) ile Ruanda arasındaki rekabet, nüfuz savaşı ve giden genel sekreterin karnesine yönelik kurum içi eleştiriler."
   },
   {
    "id": "a9cd600c581fa504",
@@ -105,7 +111,9 @@
    "priority": "normal",
    "tags": [
     "militaires"
-   ]
+   ],
+   "title_tr": "Kongo Demokratik Cumhuriyeti: Eski Ulusal Meclis Başkanı Aubin Minaku ev hapsine alındı",
+   "summary_tr": "Demokratik Kongo Cumhuriyeti'nde, Ulusal Meclis'in eski başkanı Aubin Minaku artık gizli bir hapishanede tutulmuyor. Cumhurbaşkanlığına bağlı Ulusal Siber Savunma Konseyi'nin ve ardından askeri yargının sorumluluğunda on ay tutuklu kaldıktan sonra Minaku, salı akşamı başkentteki evine nakledildi. Artık orada ev hapsinde tutuluyor."
   },
   {
    "id": "fc7dc7fcbadc07aa",
@@ -118,7 +126,8 @@
    "priority": "normal",
    "tags": [
     "ebola"
-   ]
+   ],
+   "title_tr": "Hükümet verileri, Kongo'daki Ebola vakalarının 11 bini aştığını gösteriyor"
   },
   {
    "id": "122a939ace2853e1",
@@ -131,7 +140,8 @@
    "priority": "normal",
    "tags": [
     "war"
-   ]
+   ],
+   "title_tr": "Okul kayıtlarını savaştan kurtarmak için yapay zekâ kullanan Kongolu kodlayıcılarla tanışın"
   },
   {
    "id": "135ba30680589b3d",
@@ -146,7 +156,9 @@
     "m23",
     "rebelles",
     "violences"
-   ]
+   ],
+   "title_tr": "Demokratik Kongo Cumhuriyeti: İsyancılar, cinsel şiddet mağdurlarının \"sağlık hizmetlerine erişimini engelliyor\"",
+   "summary_tr": "Sınır Tanımayan Doktorlar, 9 Kasım Pazartesi günü, Demokratik Kongo Cumhuriyeti'nin doğusunda yakın zamanda adı FRN olarak değiştirilen M23 grubu tarafından uygulanan ve cinsel şiddet mağdurlarının sağlık hizmetlerine erişimini engelleyen ve muayenelerde keskin bir düşüşe neden olan önlemleri kınadı. DwC'nin doğusu otuz yılı aşkın bir süredir çatışmalarla parçalanmış durumda ve burada cinsel şiddet olayları yaşanmaktadır."
   },
   {
    "id": "3eaf0f8247d49e9f",
@@ -159,7 +171,9 @@
    "priority": "normal",
    "tags": [
     "guerre"
-   ]
+   ],
+   "title_tr": "Demokratik Kongo Cumhuriyeti'nde Ulusal Diyalog: Çıkmazdan nasıl çıkılır?",
+   "summary_tr": "Doğuda savaş devam ederken, C64 koalisyonu çatısı altında bir araya gelen muhalefetin beş önde gelen ismi, ulusal bir diyaloğu hazırlamak için Félix Tshisekedi ve Joseph Kabila ile görüşmek istiyor. Ancak iktidar, eski cumhurbaşkanıyla Goma'da görüşecek olanları kovuşturmakla tehdit ediyor. Bu krizin taraflarını hâlâ aynı masada bir araya getirmek mümkün mü? Peki ya ülkenin demokratik geleceği ne olacak?"
   },
   {
    "id": "fcd29b63062ddd32",
@@ -173,7 +187,9 @@
    "tags": [
     "afc/m23",
     "guerre"
-   ]
+   ],
+   "title_tr": "Demokratik Kongo Cumhuriyeti: Tshisekedi, Kabila ve muhalefet arasında diyalog mümkün değil mi?",
+   "summary_tr": "Demokratik Kongo Cumhuriyeti'nde, ülkenin doğusunda süregelen savaşın gölgesinde siyasi kriz derinleşiyor. C64 muhalefet koalisyonu, ulusal bir diyaloğu hazırlamak amacıyla Cumhurbaşkanı Félix Tshisekedi ve selefi Joseph Kabila ile görüşmek istemektedir. Ancak Kinşasa, artık bir siyasi-askeri hareketi yönettiği Goma'da eski Devlet Başkanı ile görüşmeye gidecek muhalifleri kovuşturmakla tehdit ediyor."
   },
   {
    "id": "a987c69732431715",
@@ -186,7 +202,8 @@
    "priority": "normal",
    "tags": [
     "ebola"
-   ]
+   ],
+   "title_tr": "İslamcı militanlar Ebola hastalarını ölümcül Kongo baskınında kaçmaya zorladı"
   },
   {
    "id": "294ee57b6d3c91e8",
@@ -200,7 +217,8 @@
    "tags": [
     "attack",
     "kill"
-   ]
+   ],
+   "title_tr": "Sivil toplum örgütü, IŞİD bağlantılı militanların Kongo'nun doğusundaki bir köye düzenlenen saldırıda en az 33 kişiyi öldürdüğünü açıkladı"
   },
   {
    "id": "f72a6c56b66b1f78",
@@ -213,7 +231,8 @@
    "priority": "high",
    "tags": [
     "ebola"
-   ]
+   ],
+   "title_tr": "Kongo'da Ebola testi pozitif çıkan İngiliz doktor Londra'daki bir hastaneye nakledildi"
   },
   {
    "id": "065053383dcf2827",
@@ -226,7 +245,8 @@
    "priority": "normal",
    "tags": [
     "ebola"
-   ]
+   ],
+   "title_tr": "Ebola hastası İngiliz doktor tedavi için Kongo'dan Londra'ya döndü"
   },
   {
    "id": "7ac42405dd58af7f",
@@ -240,7 +260,9 @@
    "tags": [
     "army",
     "sanctions"
-   ]
+   ],
+   "title_tr": "NBA, ABD yaptırımları nedeniyle Ruanda'nın Afrika liginden çıkarıldığını açıkladı",
+   "summary_tr": "ABD, Ruanda ordusuna Demokratik Kongo Cumhuriyeti'ndeki (DKC) çatışmadaki rolü nedeniyle yaptırım uyguladı."
   },
   {
    "id": "27b50d1672c82ea6",
@@ -253,7 +275,9 @@
    "priority": "normal",
    "tags": [
     "rebel"
-   ]
+   ],
+   "title_tr": "Takım elbiseli ve botlu: Joseph Kabila'nın cumhurbaşkanlığından asi liderliğine uzanan yolu",
+   "summary_tr": "Joseph Kabila'nın yeni bir isyan hareketi başlatması Demokratik Kongo Cumhuriyeti için ne anlama geliyor?"
   }
  ]
 }
