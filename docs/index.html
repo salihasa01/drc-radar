@@ -30,6 +30,7 @@
   .pri{color:var(--red);font-weight:700}
   .t{font-size:16px;font-weight:600}
   .s{color:var(--mut);font-size:13.5px;margin-top:5px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+  .orig{font-size:12px;color:var(--mut);font-style:italic;margin-top:5px}
   .tags{margin-top:7px;display:flex;flex-wrap:wrap;gap:5px}
   .tag{font-size:11px;background:#0f1720;border:1px solid var(--line);border-radius:6px;padding:1px 6px;color:var(--mut)}
   .empty{text-align:center;color:var(--mut);padding:40px 10px}
@@ -47,7 +48,7 @@
     <button class="icon" id="refresh" aria-label="Yenile">⟳</button>
   </div>
   <input id="q" type="search" placeholder="Ara: Goma, M23, ADF…">
-  <div class="chips" id="pri"></div>
+  <div class="chips"><div class="chips" id="pri" style="margin:0"></div><div class="chips" id="lang" style="margin:0 0 0 auto"></div></div>
   <div class="chips" id="srcs"></div>
 </header>
 <div class="status" id="status"></div>
@@ -60,7 +61,7 @@ const store = {
   set(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch{} }
 };
 let data = {items: []};
-let state = { pri: store.get('pri', 'all'), src: store.get('src', 'all'), q: '' };
+let state = { pri: store.get('pri', 'all'), src: store.get('src', 'all'), lang: store.get('lang', 'tr'), q: '' };
 const lastSeen = store.get('lastSeen', null);
 
 function ago(iso){
@@ -91,13 +92,15 @@ function chips(el, opts, key){
 function render(){
   const srcNames = [...new Set(data.items.map(i => i.source))].sort();
   chips($('#pri'), [['all','Tümü'], ['high','🔴 Yüksek öncelik']], 'pri');
+  chips($('#lang'), [['tr','Türkçe'], ['orig','Orijinal dil']], 'lang');
   chips($('#srcs'), [['all','Tüm kaynaklar'], ...srcNames.map(s => [s, s])], 'src');
 
   const q = fold(state.q.trim());
   const items = data.items.filter(i =>
     (state.pri === 'all' || i.priority === state.pri) &&
     (state.src === 'all' || i.source === state.src) &&
-    (!q || fold(i.title + ' ' + (i.summary || '') + ' ' + (i.tags || []).join(' ')).includes(q)));
+    (!q || fold([i.title, i.title_tr, i.summary, i.summary_tr, ...(i.tags || [])].join(' ')).includes(q)));
+  const tr = state.lang === 'tr';
 
   if (!items.length){ $('#list').innerHTML = '<div class="empty">Bu filtreye uyan haber yok.</div>'; return; }
   let html = '', lastDay = '';
@@ -108,8 +111,9 @@ function render(){
     html += `<a class="card ${i.priority === 'high' ? 'high' : ''} ${isNew ? 'new' : ''}" href="${esc(i.link)}" target="_blank" rel="noopener">
       <div class="meta"><span class="src">${esc(i.source)}</span><span>${ago(i.published)}</span>
         ${i.priority === 'high' ? '<span class="pri">● ÖNEMLİ</span>' : ''}${isNew ? '<span style="color:var(--acc)">YENİ</span>' : ''}</div>
-      <div class="t">${esc(i.title)}</div>
-      ${i.summary ? `<div class="s">${esc(i.summary)}</div>` : ''}
+      <div class="t">${esc(tr && i.title_tr ? i.title_tr : i.title)}</div>
+      ${(tr && i.summary_tr) || i.summary ? `<div class="s">${esc(tr && i.summary_tr ? i.summary_tr : i.summary)}</div>` : ''}
+      ${tr && i.title_tr && i.title_tr !== i.title ? `<div class="orig">${esc(i.title)}</div>` : ''}
       <div class="tags">${(i.tags || []).map(t => `<span class="tag">${esc(t)}</span>`).join('')}</div>
     </a>`;
   }
