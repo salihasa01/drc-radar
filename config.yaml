@@ -14,6 +14,11 @@ max_items: 400
 # Telegram bildirimi: "all" = her yeni haber, "high" = sadece yüksek öncelikli, "off" = kapalı
 notify: high
 
+# Türkçe çeviri (ücretsiz Google Çeviri): true = açık, false = kapalı
+translate: true
+# Bir taramada en fazla kaç haber çevrilsin (kalanlar sonraki taramada çevrilir)
+translate_limit: 80
+
 sources:
   # --- Doğrudan RSS yayınlayan siteler ---
   - name: BBC
