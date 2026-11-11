@@ -1,0 +1,202 @@
+# ============================================================
+#  HABER RADARI — ayarlar
+#  Yeni kaynak eklemek için "sources" listesine bir satır ekleyin.
+#  Yeni anahtar kelime için ilgili listeye ekleyin.
+#  (Büyük/küçük harf ve aksan fark etmez.)
+# ============================================================
+
+title: "DRC Güvenlik Radarı"
+
+# Kaç günlük haber saklansın / en fazla kaç haber listelensin
+keep_days: 14
+max_items: 400
+
+# Telegram bildirimi: "all" = her yeni haber, "high" = sadece yüksek öncelikli, "off" = kapalı
+notify: high
+
+sources:
+  # --- Doğrudan RSS yayınlayan siteler ---
+  - name: BBC
+    url: https://feeds.bbci.co.uk/news/world/africa/rss.xml
+  - name: Al Jazeera
+    url: https://www.aljazeera.com/xml/rss/all.xml
+  - name: France 24
+    url: https://www.france24.com/en/africa/rss
+  - name: France 24 (FR)
+    url: https://www.france24.com/fr/afrique/rss
+  - name: RFI (FR)
+    url: https://www.rfi.fr/fr/afrique/rss
+
+  # --- Reuters ve AP herkese açık RSS vermiyor; Google News üzerinden site bazlı arama ---
+  - name: Reuters
+    url: https://news.google.com/rss/search?q=(Congo+OR+DRC+OR+M23+OR+Kivu)+site:reuters.com+when:7d&hl=en-US&gl=US&ceid=US:en
+  - name: AP
+    url: https://news.google.com/rss/search?q=(Congo+OR+DRC+OR+M23+OR+Kivu)+site:apnews.com+when:7d&hl=en-US&gl=US&ceid=US:en
+
+  # Örnek: yeni kaynak eklemek
+  # - name: The Guardian
+  #   url: https://www.theguardian.com/world/drc/rss
+
+# ------------------------------------------------------------
+# SÜZME KURALI:
+#   Haber (ülke terimi) VE (güvenlik terimi) içermeli
+#   VEYA bir "güçlü terim" içermeli (bunlar tek başına yeter).
+# ------------------------------------------------------------
+
+country_terms:
+  - congo
+  - drc
+  - rdc
+  - congolese
+  - congolais
+  - congolaise
+  - kinshasa
+  - goma
+  - bukavu
+  - uvira
+  - kivu
+  - ituri
+  - bunia
+  - beni
+  - butembo
+  - kisangani
+  - lubumbashi
+  - kasai
+  - tanganyika
+  - masisi
+  - rutshuru
+  - walikale
+  - tshisekedi
+
+# Tek başına yeterli terimler (silahlı gruplar, güvenlik aktörleri)
+strong_terms:
+  - m23
+  - afc/m23
+  - alliance fleuve congo
+  - adf
+  - allied democratic forces
+  - codeco
+  - wazalendo
+  - fardc
+  - monusco
+  - zaire militia
+  - twirwaneho
+  - mai-mai
+  - mai mai
+  - fdlr
+
+security_terms:
+  # İngilizce
+  - attack
+  - attacked
+  - killed
+  - kill
+  - dead
+  - deaths
+  - massacre
+  - clash
+  - clashes
+  - fighting
+  - rebel
+  - rebels
+  - militia
+  - militias
+  - armed group
+  - army
+  - troops
+  - soldiers
+  - military
+  - ceasefire
+  - peace deal
+  - peace talks
+  - offensive
+  - displaced
+  - refugees
+  - kidnapped
+  - abducted
+  - drone
+  - explosion
+  - bomb
+  - shelling
+  - violence
+  - security
+  - insecurity
+  - police
+  - protest
+  - curfew
+  - coup
+  - mutiny
+  - jail break
+  - prison break
+  - peacekeepers
+  - sanctions
+  - war
+  - ebola
+  - outbreak
+  # Fransızca
+  - attaque
+  - tués
+  - morts
+  - affrontements
+  - combats
+  - rebelles
+  - milice
+  - miliciens
+  - armée
+  - militaires
+  - cessez-le-feu
+  - accord de paix
+  - déplacés
+  - réfugiés
+  - enlèvement
+  - enlevés
+  - explosion
+  - violences
+  - sécurité
+  - insécurité
+  - casques bleus
+  - couvre-feu
+  - évasion
+  - guerre
+
+# Bunlardan biri geçerse öncelik YÜKSEK olur
+high_priority_terms:
+  - killed
+  - massacre
+  - dead
+  - deaths
+  - attack
+  - offensive
+  - captur*
+  - seiz*
+  - drone
+  - explosion
+  - bomb
+  - coup
+  - mutiny
+  - kidnapped
+  - abducted
+  - evacuat*
+  - tués
+  - morts
+  - massacre
+  - attaque
+  - offensive
+  - prise de
+  - enlèvement
+
+# Kongo Cumhuriyeti (Brazzaville) haberlerini ayıklamak için
+exclude_if_only:
+  - republic of congo
+  - republic of the congo
+  - congo-brazzaville
+  - brazzaville
+  - sassou
+
+# Bu kelimeler geçerse haber tamamen atlanır (spor vb.)
+exclude_terms:
+  - football
+  - afcon
+  - fifa
+  - leopards
+  - basketball
