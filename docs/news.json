@@ -1,1 +1,259 @@
-{"title":"DRC Güvenlik Radarı","generated_at":null,"sources":[],"items":[]}
+{
+ "title": "DRC Güvenlik Radarı",
+ "generated_at": "2026-11-11T18:07:15.824660+00:00",
+ "sources": [
+  {
+   "source": "BBC",
+   "ok": true,
+   "count": 32
+  },
+  {
+   "source": "Al Jazeera",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "source": "France 24",
+   "ok": true,
+   "count": 30
+  },
+  {
+   "source": "France 24 (FR)",
+   "ok": true,
+   "count": 30
+  },
+  {
+   "source": "RFI (FR)",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "source": "Reuters",
+   "ok": true,
+   "count": 100
+  },
+  {
+   "source": "AP",
+   "ok": true,
+   "count": 26
+  }
+ ],
+ "items": [
+  {
+   "id": "7af999f7b9d111cf",
+   "title": "Islamic State group-affiliated rebels kill at least 22 in Congo’s eastern region",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZG1waG1xOHJUdGpBcUdNUXNmSUJ6bUctdFFZMmw4OVhPUmdUTzdSMVJWOFJ1N1dLWDVVcVh6MDY5VlRmT2tZSFJIWFZrU1E2RmxtV1JRaDE0Q3dJcEVtMHUza3Z2d1Bla3FMcWZqeUgxRjBZQ1pEODhzUHVHZHA0aFBSZXdlWElQU1JxbVE3cEtYS01Nel9XbUNxbGwwYXVVQVlCUHA4YTIyS0RjVTVPMQ?oc=5",
+   "source": "AP",
+   "published": "2026-11-11T16:52:00+00:00",
+   "found": "2026-11-11T18:07:15.823679+00:00",
+   "priority": "normal",
+   "tags": [
+    "kill",
+    "rebels"
+   ]
+  },
+  {
+   "id": "4e5d09f328bf2446",
+   "title": "RDC : \"C’est Kagame le véritable chef\" des rebelles, pas Kabila, selon la cheffe de la diplomatie",
+   "summary": "Dans un entretien accordé à France 24, la ministre des Affaires étrangères congolaise, Thérèse Kayikwamba Wagner, voit en Paul Kagame, président rwandais, “le véritable chef” du front rebelle de l'ex-chef d'État Joseph Kabila. Elle dénonce une présence \"accrue\" des forces armées rwandaises et nie toute collusion d’État avec la milice hutue des Forces démocratiques de libération du Rwanda.",
+   "link": "https://www.france24.com/fr/%C3%A9missions/en-t%C3%AAte-%C3%A0-t%C3%AAte/20261111-exclusif-rdc-entretien-ministre-affaires-etrangeres-paul-kagame-v%C3%A9ritable-chef-des-rebelles-kabila-frn-fdlr",
+   "source": "France 24 (FR)",
+   "published": "2026-11-11T15:06:10+00:00",
+   "found": "2026-11-11T18:07:14.559934+00:00",
+   "priority": "normal",
+   "tags": [
+    "milice",
+    "rebelles"
+   ]
+  },
+  {
+   "id": "a3810ebf5b5a8bcd",
+   "title": "Ebola tops 11,000 cases in Congo’s deadliest outbreak",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2xZQ19zQXZleUxGQlZ5WWRFcFJUSGI2ZVJ0MnJPU2RfZ0l6REFwbWFWVm5RdFQxYnRKd2Zsb0FmNDlhYWdQSlV2ZFhiNmx6RzdsZUZLVWJ5cFdBb0xIVWEydTlRSmg1cUthejlNQ2JzQUYwQk9EcVFodXdtMURQOHZmVHM2RW8?oc=5",
+   "source": "AP",
+   "published": "2026-11-11T11:41:00+00:00",
+   "found": "2026-11-11T18:07:15.821483+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola",
+    "outbreak"
+   ]
+  },
+  {
+   "id": "a4a4e774071faefe",
+   "title": "Conflit RDC/Rwanda et contestation en interne: une élection sous tension à l’OIF",
+   "summary": "Le 16 novembre, les chefs d’États et gouvernements de l'Organisation internationale de la Francophonie (OIF) pourraient élire au Cambodge leur secrétaire général par un vote, une première. Entre rivalité RDC-Rwanda, guerre d'influence et critiques en interne sur le bilan de la sortante, rarement la course aura été aussi serrée.",
+   "link": "https://www.rfi.fr/fr/asie-pacifique/20261111-oif-conflit-rdc-rwanda-contestation-interne-%C3%A9lection-sous-tension",
+   "source": "RFI (FR)",
+   "published": "2026-11-11T06:25:22+00:00",
+   "found": "2026-11-11T18:07:14.855681+00:00",
+   "priority": "normal",
+   "tags": [
+    "guerre"
+   ]
+  },
+  {
+   "id": "a9cd600c581fa504",
+   "title": "RDC: Aubin Minaku, ancien président de l'Assemblée nationale placé en résidence surveillée",
+   "summary": "En République démocratique du Congo, l’ancien président de l’Assemblée nationale Aubin Minaku n’est plus détenu dans un cachot secret. Après dix mois de détention sous la responsabilité du Conseil national de cyberdéfense, qui dépend de la présidence, puis de la justice militaire, Minaku a été transféré mardi soir à son domicile, dans la capitale. Il y est désormais placé en résidence surveillée, ",
+   "link": "https://www.rfi.fr/fr/afrique/20261111-rdc-aubin-minaku-ancien-pr%C3%A9sident-de-l-assembl%C3%A9e-nationale-r%C3%A9sidence-surveill%C3%A9e-maison",
+   "source": "RFI (FR)",
+   "published": "2026-11-11T05:23:45+00:00",
+   "found": "2026-11-11T18:07:14.866952+00:00",
+   "priority": "normal",
+   "tags": [
+    "militaires"
+   ]
+  },
+  {
+   "id": "fc7dc7fcbadc07aa",
+   "title": "Congo's Ebola cases surpass 11,000, government data show",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNTBUbS1fR3ZNTHducjFuYVpfcjJCWDllelJrQTZLMXBGUkRlZVlhdlNXV3RCS3RLUGVTTE90NEF3b0d4bE1NT3ZZbVE1VEQzVmMybk1HTXRtdzJMcGtPeU9LQi16T2ZyNS1hQzBLNzgxMkR6VWFJS0JLdUxobWlPUjhyWEtuQjN3Q3lqNC1HeUJPaWc0Ym1hMnE4YktSbGFsallBYTN1MzljcGhzeVJiS2lEUm9qSWhmbFBWM1d1ZVdwYnM?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-10T23:19:08+00:00",
+   "found": "2026-11-11T18:07:15.414878+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola"
+   ]
+  },
+  {
+   "id": "122a939ace2853e1",
+   "title": "Meet the Congolese coders using AI to save school records from war",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKbnY1NHNtbU1PMnRZR25oQjZJTnBvNmpySjBpOU1LUFMtUS1DOWlOSVFiQ01hVkt2MWFqaFkxOG1iU2Myakw4WUdYTnJIbGFwc04zOTJlbng3U1NwVW1WVmtBeHhDRXc?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-10T13:42:38+00:00",
+   "found": "2026-11-11T18:07:15.428428+00:00",
+   "priority": "normal",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": "135ba30680589b3d",
+   "title": "RD Congo : les rebelles \"empêchent l'accès aux soins\" pour les victimes de violences sexuelles",
+   "summary": "Médecins sans frontières a dénoncé lundi 9 novembres des mesures mises en place dans l'est de la République démocratique du Congo par le groupe M23, récemment rebaptisé FRN, qui ont entravé l'accès aux soins pour les victimes de violences sexuelles et provoqué une chute brutale des consultations. L'Est de la RDC est déchiré par des conflits depuis plus de trente ans et les violences sexuelles y so",
+   "link": "https://www.france24.com/fr/vid%C3%A9o/20261110-rd-congo-les-rebelles-emp%C3%AAchent-l-acc%C3%A8s-aux-soins-pour-les-victimes-de-violences-sexuelles",
+   "source": "France 24 (FR)",
+   "published": "2026-11-10T11:41:59+00:00",
+   "found": "2026-11-11T18:07:14.566786+00:00",
+   "priority": "normal",
+   "tags": [
+    "m23",
+    "rebelles",
+    "violences"
+   ]
+  },
+  {
+   "id": "3eaf0f8247d49e9f",
+   "title": "Dialogue nationale en RD Congo : comment sortir de l'impasse ?",
+   "summary": "Alors que la guerre se poursuit dans l'Est, cinq grandes figures de l'opposition, réunies au sein de la coalition C64, veulent rencontrer Félix Tshisekedi et Joseph Kabila pour préparer un dialogue national. Mais le pouvoir menace de poursuites ceux qui rencontreraient l'ancien président à Goma. Peut-on encore réunir les acteurs de cette crise autour d'une même table ? Et que devient l'avenir démo",
+   "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261108-dialogue-nationale-en-rd-congo-comment-sortir-de-l-impasse",
+   "source": "France 24 (FR)",
+   "published": "2026-11-08T21:37:48+00:00",
+   "found": "2026-11-11T18:07:14.573084+00:00",
+   "priority": "normal",
+   "tags": [
+    "guerre"
+   ]
+  },
+  {
+   "id": "fcd29b63062ddd32",
+   "title": "RD Congo : dialogue impossible entre Tshisekedi, Kabila et l'opposition ?",
+   "summary": "En République démocratique du Congo, la crise politique s'intensifie sur fond de guerre dans l'Est. La coalition d'opposition C64 souhaite rencontrer le président Félix Tshisekedi et son prédécesseur Joseph Kabila pour préparer un dialogue national. Mais Kinshasa menace de poursuites les opposants qui iraient rencontrer l'ancien chef de l'État à Goma, où il dirige désormais un mouvement politico-m",
+   "link": "https://www.france24.com/fr/vid%C3%A9o/20261108-rdc-dialogue-impossible-entre-tshisekedi-kabila-et-l-opposition",
+   "source": "France 24 (FR)",
+   "published": "2026-11-08T21:30:57+00:00",
+   "found": "2026-11-11T18:07:14.574556+00:00",
+   "priority": "normal",
+   "tags": [
+    "afc/m23",
+    "guerre"
+   ]
+  },
+  {
+   "id": "a987c69732431715",
+   "title": "Islamist militants force Ebola patients to flee in deadly Congo raid",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjdvMzhsUExDa2lhS3Z4VmpOVlhEWldzTUN2SFhBZFpfVXEtZ0RnNW9mRGFfTnVMTnhKUEdGMGpSR1MyS3lGTTBINE92Zkl0S1AtSHdFaUFIQVZNTXczZW05LWtaUm5CUkZCRTFLbTF2WGZhbDRNYy1uOERxekdIOC1RSDBodVBDdlRIdnlubHN3d0pzMC1WbmU4MHV1aXF3Nm8tX1NCMUUtaUluNnRQUQ?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-06T16:18:00+00:00",
+   "found": "2026-11-11T18:07:15.415062+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola"
+   ]
+  },
+  {
+   "id": "294ee57b6d3c91e8",
+   "title": "IS-linked militants kill at least 33 in eastern Congo village attack, civil society says",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYUJUVWZUU043bXhablo2WnA0X3pRRExzdW9pT2RXN3VSMkFjMEdOVGN6ZWJuLW93a0xxekNyYnFXZ29DUmUxVDh3YmxKMm5aMUNJZVZwZ1lzcDVGV2ltZUFuVHpzUUlsU2l5MlVnNHJoemludFZFRXRZRzhzZ0hub1R2eWhMc0RScjF6Mzd6cnJ0WWcwbjNKZTF0aXN3QQ?oc=5",
+   "source": "AP",
+   "published": "2026-11-06T13:09:00+00:00",
+   "found": "2026-11-11T18:07:15.821710+00:00",
+   "priority": "high",
+   "tags": [
+    "attack",
+    "kill"
+   ]
+  },
+  {
+   "id": "f72a6c56b66b1f78",
+   "title": "British doctor who tested positive for Ebola in Congo is evacuated to London hospital",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbFFvYUFnanJRZnVWSWx6X0l2TlpZOTl2bFEyMFJ2aV9wUlNJVlhocjBzN2JDYWlzYk1CbzRRY1lXei1helBJQ1pMbkRaVHFqeTBiT3BPRVFQY0cxWldnRjdVdFNFNm9xaUJTZlVDMnM2T0ZhbnBka0dpWDlycFFEeFR4Ti1JcEFsRVZrVUlvcmV1MXhjVG1pUE1WbU1ldU55NktIY3BBdw?oc=5",
+   "source": "AP",
+   "published": "2026-11-05T22:39:00+00:00",
+   "found": "2026-11-11T18:07:15.821923+00:00",
+   "priority": "high",
+   "tags": [
+    "ebola"
+   ]
+  },
+  {
+   "id": "065053383dcf2827",
+   "title": "UK doctor with Ebola returns from Congo to London for treatment",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTDZXbHFZcURmNWNld3RGMjBhWG04cWMzR1pYRlFRcHJuZUNMdEFTd1Y4ZlhKZG5VWHJjU2cwazRkWFBEYjlER1FSMHhTYVNmNlU4blJ2QUdBVlJhYWtrS2NpX0NZVTgzeENYYjNlb0tPWlo2ZU9McUFmRjhuNzVBVDlSeGRHWkR3eldtNWJ6dWhJdm5nSmJLTTZ4Z25uVE9mcHpsMXVySHpiVXJ6VlFod1I2Q0pwOXVDS2ZpUGhmRWp0V0U?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-05T21:52:36+00:00",
+   "found": "2026-11-11T18:07:15.415700+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola"
+   ]
+  },
+  {
+   "id": "7ac42405dd58af7f",
+   "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+   "summary": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
+   "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "published": "2026-11-04T11:46:09+00:00",
+   "found": "2026-11-11T18:07:14.186770+00:00",
+   "priority": "normal",
+   "tags": [
+    "army",
+    "sanctions"
+   ]
+  },
+  {
+   "id": "27b50d1672c82ea6",
+   "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
+   "summary": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?",
+   "link": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "published": "2026-10-31T04:32:07+00:00",
+   "found": "2026-11-11T18:07:14.185427+00:00",
+   "priority": "normal",
+   "tags": [
+    "rebel"
+   ]
+  }
+ ]
+}
