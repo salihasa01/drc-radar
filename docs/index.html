@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0f1720">
+<title>DRC Güvenlik Radarı</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon-192.png">
+<style>
+  :root{--bg:#0f1720;--card:#17222e;--line:#243444;--txt:#e6edf3;--mut:#8b9bab;--acc:#2dd4bf;--red:#f87171}
+  *{box-sizing:border-box;margin:0}
+  body{background:var(--bg);color:var(--txt);font:15px/1.45 system-ui,-apple-system,Roboto,sans-serif;padding-bottom:40px}
+  header{position:sticky;top:0;z-index:5;background:rgba(15,23,32,.96);backdrop-filter:blur(6px);border-bottom:1px solid var(--line);padding:12px 14px 10px}
+  .top{display:flex;align-items:center;gap:10px}
+  h1{font-size:18px;flex:1;letter-spacing:.2px}
+  .upd{font-size:12px;color:var(--mut);margin-top:2px}
+  button.icon{background:var(--card);border:1px solid var(--line);color:var(--txt);border-radius:10px;width:40px;height:40px;font-size:18px}
+  input{width:100%;margin-top:10px;background:var(--card);border:1px solid var(--line);color:var(--txt);border-radius:10px;padding:10px 12px;font-size:15px}
+  .chips{display:flex;gap:6px;overflow-x:auto;margin-top:10px;scrollbar-width:none}
+  .chip{flex:none;border:1px solid var(--line);background:var(--card);color:var(--mut);border-radius:999px;padding:6px 12px;font-size:13px}
+  .chip.on{background:var(--acc);color:#04201c;border-color:var(--acc);font-weight:600}
+  main{padding:10px 12px;display:flex;flex-direction:column;gap:10px}
+  .day{font-size:12px;color:var(--mut);text-transform:uppercase;letter-spacing:.6px;margin:8px 2px 0}
+  a.card{display:block;text-decoration:none;color:inherit;background:var(--card);border:1px solid var(--line);border-left:3px solid var(--line);border-radius:12px;padding:12px 13px}
+  a.card.high{border-left-color:var(--red)}
+  a.card.new{box-shadow:0 0 0 1px var(--acc) inset}
+  .meta{display:flex;gap:8px;align-items:center;font-size:12px;color:var(--mut);margin-bottom:5px}
+  .src{color:var(--acc);font-weight:600}
+  .pri{color:var(--red);font-weight:700}
+  .t{font-size:16px;font-weight:600}
+  .s{color:var(--mut);font-size:13.5px;margin-top:5px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+  .tags{margin-top:7px;display:flex;flex-wrap:wrap;gap:5px}
+  .tag{font-size:11px;background:#0f1720;border:1px solid var(--line);border-radius:6px;padding:1px 6px;color:var(--mut)}
+  .empty{text-align:center;color:var(--mut);padding:40px 10px}
+  .status{font-size:12px;color:var(--mut);padding:4px 14px}
+  .bad{color:var(--red)}
+</style>
+</head>
+<body>
+<header>
+  <div class="top">
+    <div style="flex:1">
+      <h1 id="title">DRC Güvenlik Radarı</h1>
+      <div class="upd" id="upd">Yükleniyor…</div>
+    </div>
+    <button class="icon" id="refresh" aria-label="Yenile">⟳</button>
+  </div>
+  <input id="q" type="search" placeholder="Ara: Goma, M23, ADF…">
+  <div class="chips" id="pri"></div>
+  <div class="chips" id="srcs"></div>
+</header>
+<div class="status" id="status"></div>
+<main id="list"></main>
+
+<script>
+const $ = s => document.querySelector(s);
+const store = {
+  get(k, d){ try{ const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; }catch{ return d; } },
+  set(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch{} }
+};
+let data = {items: []};
+let state = { pri: store.get('pri', 'all'), src: store.get('src', 'all'), q: '' };
+const lastSeen = store.get('lastSeen', null);
+
+function ago(iso){
+  const m = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (m < 60) return m + ' dk önce';
+  const h = Math.round(m / 60); if (h < 24) return h + ' sa önce';
+  return Math.round(h / 24) + ' gün önce';
+}
+function dayLabel(iso){
+  const d = new Date(iso), t = new Date();
+  const y = new Date(); y.setDate(t.getDate() - 1);
+  if (d.toDateString() === t.toDateString()) return 'Bugün';
+  if (d.toDateString() === y.toDateString()) return 'Dün';
+  return d.toLocaleDateString('tr-TR', {day:'numeric', month:'long', weekday:'long'});
+}
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fold = s => s.toLocaleLowerCase('tr').normalize('NFKD').replace(/[̀-ͯ]/g, '');
+
+function chips(el, opts, key){
+  el.innerHTML = opts.map(([v, l]) =>
+    `<button class="chip ${state[key] === v ? 'on' : ''}" data-v="${esc(v)}">${esc(l)}</button>`).join('');
+  el.onclick = e => {
+    const b = e.target.closest('.chip'); if (!b) return;
+    state[key] = b.dataset.v; store.set(key, state[key]); render();
+  };
+}
+
+function render(){
+  const srcNames = [...new Set(data.items.map(i => i.source))].sort();
+  chips($('#pri'), [['all','Tümü'], ['high','🔴 Yüksek öncelik']], 'pri');
+  chips($('#srcs'), [['all','Tüm kaynaklar'], ...srcNames.map(s => [s, s])], 'src');
+
+  const q = fold(state.q.trim());
+  const items = data.items.filter(i =>
+    (state.pri === 'all' || i.priority === state.pri) &&
+    (state.src === 'all' || i.source === state.src) &&
+    (!q || fold(i.title + ' ' + (i.summary || '') + ' ' + (i.tags || []).join(' ')).includes(q)));
+
+  if (!items.length){ $('#list').innerHTML = '<div class="empty">Bu filtreye uyan haber yok.</div>'; return; }
+  let html = '', lastDay = '';
+  for (const i of items){
+    const d = dayLabel(i.published);
+    if (d !== lastDay){ html += `<div class="day">${esc(d)}</div>`; lastDay = d; }
+    const isNew = lastSeen && i.found > lastSeen;
+    html += `<a class="card ${i.priority === 'high' ? 'high' : ''} ${isNew ? 'new' : ''}" href="${esc(i.link)}" target="_blank" rel="noopener">
+      <div class="meta"><span class="src">${esc(i.source)}</span><span>${ago(i.published)}</span>
+        ${i.priority === 'high' ? '<span class="pri">● ÖNEMLİ</span>' : ''}${isNew ? '<span style="color:var(--acc)">YENİ</span>' : ''}</div>
+      <div class="t">${esc(i.title)}</div>
+      ${i.summary ? `<div class="s">${esc(i.summary)}</div>` : ''}
+      <div class="tags">${(i.tags || []).map(t => `<span class="tag">${esc(t)}</span>`).join('')}</div>
+    </a>`;
+  }
+  $('#list').innerHTML = html;
+}
+
+async function load(){
+  $('#upd').textContent = 'Yükleniyor…';
+  try{
+    const r = await fetch('news.json?t=' + Date.now(), {cache: 'no-store'});
+    data = await r.json();
+    store.set('cache', data);
+  }catch{
+    data = store.get('cache', {items: []});
+    $('#upd').textContent = 'Çevrimdışı — kayıtlı liste gösteriliyor';
+  }
+  if (data.title) { $('#title').textContent = data.title; document.title = data.title; }
+  if (data.generated_at) $('#upd').textContent = 'Son tarama: ' + ago(data.generated_at) + ' · ' + data.items.length + ' haber';
+  const bad = (data.sources || []).filter(s => !s.ok).map(s => s.source);
+  $('#status').innerHTML = bad.length ? `<span class="bad">Okunamayan kaynak: ${esc(bad.join(', '))}</span>` : '';
+  render();
+  store.set('lastSeen', new Date().toISOString());
+}
+
+$('#q').oninput = e => { state.q = e.target.value; render(); };
+$('#refresh').onclick = load;
+document.addEventListener('visibilitychange', () => { if (!document.hidden) load(); });
+if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
+load();
+</script>
+</body>
+</html>
