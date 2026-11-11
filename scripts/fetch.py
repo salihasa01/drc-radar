@@ -103,7 +103,8 @@ def send_telegram(items):
         return
     for it in items[:15]:  # bir seferde en fazla 15 bildirim
         flag = "🔴" if it["priority"] == "high" else "🔵"
-        msg = f"{flag} <b>{html.escape(it['title'])}</b>\n{html.escape(it['source'])}\n{it['link']}"
+        title = it.get("title_tr") or it["title"]
+        msg = f"{flag} <b>{html.escape(title)}</b>\n{html.escape(it['source'])}\n{it['link']}"
         data = urllib.parse.urlencode(
             {"chat_id": chat, "text": msg, "parse_mode": "HTML", "disable_web_page_preview": "true"}
         ).encode()
@@ -111,6 +112,33 @@ def send_telegram(items):
             urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", data, timeout=15)
         except Exception as ex:
             print(f"  ! Telegram hatası: {ex}", file=sys.stderr)
+
+
+def translate_items(items, limit):
+    """Türkçe karşılığı olmayan haberleri ücretsiz Google Çeviri ile çevirir.
+    Çeviri başarısız olursa haber orijinal diliyle kalır, bir sonraki taramada yeniden denenir."""
+    try:
+        from deep_translator import GoogleTranslator
+    except ImportError:
+        print("  ! deep-translator kurulu değil, çeviri atlandı", file=sys.stderr)
+        return
+    tr = GoogleTranslator(source="auto", target="tr")
+    done = fails = 0
+    for it in items:
+        if done >= limit or fails >= 3:
+            break
+        if it.get("title_tr"):
+            continue
+        try:
+            it["title_tr"] = (tr.translate(it["title"]) or "").strip() or it["title"]
+            if it.get("summary"):
+                it["summary_tr"] = (tr.translate(it["summary"]) or "").strip()
+            done += 1
+            time.sleep(0.4)
+        except Exception as ex:
+            fails += 1
+            print(f"  ! Çeviri hatası: {ex}", file=sys.stderr)
+    print(f"Çevrilen: {done}")
 
 
 def main():
@@ -180,6 +208,9 @@ def main():
              if datetime.fromisoformat(it["published"]) >= cutoff]
     items.sort(key=lambda it: it["published"], reverse=True)
     items = items[: cfg.get("max_items", 400)]
+
+    if cfg.get("translate", True):
+        translate_items(items, cfg.get("translate_limit", 80))
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps({
