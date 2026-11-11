@@ -124,15 +124,36 @@ def _gtx(text):
     return "".join(seg[0] for seg in data[0] if seg and seg[0]).strip()
 
 
-def _deep(text):
-    """Yedek yöntem: deep-translator kütüphanesi."""
-    from deep_translator import GoogleTranslator
-    return (GoogleTranslator(source="auto", target="tr").translate(text) or "").strip()
+FR_WORDS = {"le", "la", "les", "des", "du", "et", "est", "une", "dans", "sur", "pour", "au", "aux", "selon", "qui"}
+EN_WORDS = {"the", "of", "and", "in", "is", "a", "to", "for", "on", "after", "as", "with", "says", "by"}
+
+
+def _lang(text):
+    words = re.findall(r"[a-zà-ÿ']+", text.lower())
+    fr = sum(w in FR_WORDS for w in words)
+    en = sum(w in EN_WORDS for w in words)
+    return "fr" if fr > en else "en"
+
+
+def _mymemory(text):
+    """MyMemory ücretsiz çeviri servisi. E-posta verilirse günlük kota 5.000'den 50.000 karaktere çıkar."""
+    params = {"q": text[:480], "langpair": f"{_lang(text)}|tr"}
+    email = os.environ.get("MYMEMORY_EMAIL", "").strip()
+    if email:
+        params["de"] = email
+    req = urllib.request.Request("https://api.mymemory.translated.net/get?" + urllib.parse.urlencode(params),
+                                 headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=20) as r:
+        data = json.loads(r.read().decode("utf-8"))
+    out = html.unescape((data.get("responseData") or {}).get("translatedText") or "").strip()
+    if str(data.get("responseStatus")) != "200" or out.upper().startswith("MYMEMORY WARNING"):
+        raise RuntimeError(f"{data.get('responseStatus')} {data.get('responseDetails') or out[:120]}")
+    return out
 
 
 def translate(text):
     errors = []
-    for fn in (_gtx, _deep):
+    for fn in (_mymemory, _gtx):
         try:
             out = fn(text)
             if out:
@@ -161,6 +182,7 @@ def translate_items(items, limit):
         except Exception as ex:
             fails += 1
             print(f"  ! Çeviri hatası: {ex}")
+            time.sleep(2)
     print(f"Çevrilen: {done} | Hata: {fails}")
 
 
