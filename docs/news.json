@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-12T07:32:12.570074+00:00",
+ "generated_at": "2026-11-12T16:37:08.877379+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 33
+   "count": 31
   },
   {
    "source": "Al Jazeera",
@@ -35,10 +35,56 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 21
+   "count": 22
   }
  ],
  "items": [
+  {
+   "id": "5c3f7fbc37d7ffef",
+   "title": "RDC: l’ONU ajoute le Front pour la refondation de la Nation à sa liste de mouvements sous sanctions",
+   "summary": "Le comité des sanctions de l’ONU sur la République démocratique du Congo a ajouté, le 11 novembre le Front pour la refondation de la Nation (FRN) à sa liste. Le mouvement dirigé par l’ancien président Joseph Kabila est déjà connu sous un autre nom à savoir l’Alliance Fleuve Congo. Kinshasa salue la décision.",
+   "link": "https://www.rfi.fr/fr/afrique/20261112-rdc-onu-ajoute-frn-front-refondation-nation-liste-de-mouvements-sous-sanctions-afc",
+   "source": "RFI (FR)",
+   "published": "2026-11-12T13:20:48+00:00",
+   "found": "2026-11-12T16:36:59.378529+00:00",
+   "priority": "normal",
+   "tags": [
+    "alliance fleuve congo",
+    "sanctions"
+   ],
+   "title_tr": "KDC: BM, Ulusun Yeniden Kuruluşu Cephesi'ni yaptırım uygulanan hareketler listesine ekledi",
+   "summary_tr": "Birleşmiş Milletler'in Demokratik Kongo Cumhuriyeti'ne yönelik yaptırımlar komitesi, 11 Kasım'da Ulusun Yeniden Kuruluşu Cephesi'ni (FRN) listesine ekledi. Eski Cumhurbaşkanı Joseph Kabila liderliğindeki hareket, Kongo Nehri İttifakı olarak bilinen başka bir adla zaten tanınıyor. Kinşasa bu kararı memnuniyetle karşıladı."
+  },
+  {
+   "id": "39ee3f8be1118fed",
+   "title": "Kenya : le dernier patient atteint du virus Ebola officiellement guéri",
+   "summary": "Le Kenya ne compte officiellement plus aucun malade du virus Ebola, le dernier patient recensé étant sorti guéri de l'hôpital, se sont félicité mercredi 11 novembre les autorités. Le 6 octobre, le pays d'Afrique de l'Est avait déclaré le premier cas confirmé d'Ebola de son histoire, après le décès à son retour au pays d'un Kényan qui vivait en RDC. Les précisions de Bastien Renouil, correspondant ",
+   "link": "https://www.france24.com/fr/vid%C3%A9o/20261112-kenya-le-dernier-patient-atteint-du-virus-ebola-officiellement-gu%C3%A9ri",
+   "source": "France 24 (FR)",
+   "published": "2026-11-12T13:18:36+00:00",
+   "found": "2026-11-12T16:36:59.151385+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola"
+   ],
+   "title_tr": "Kenya: Ebola virüsü bulaşan son hasta resmen iyileşti",
+   "summary_tr": "Yetkililer, 11 Kasım Çarşamba günü yaptıkları açıklamada, kayıtlı son hastanın iyileşerek hastaneden taburcu olmasıyla birlikte Kenya'da artık resmî olarak hiçbir Ebola virüsü hastasının kalmadığını memnuniyetle duyurdu. 6 Ekim'de Doğu Afrika ülkesi, Demokratik Kongo Cumhuriyeti'nde yaşayan bir Kenyalı'nın ülkesine döndükten sonra hayatını kaybetmesinin ardından tarihinde ilk kez doğrulanmış Ebola vakasını bildirmişti. Muhabir Bastien Renouil'den ayrıntılar"
+  },
+  {
+   "id": "013d6ceb233a854d",
+   "title": "Congo Ebola outbreak still out of control after six months, MSF says",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdGYtSlBocHpZUE9ldnZXb054T1V0c012WkVoTVNFeW81R3FBek1zVzY4NjV1dnYtM3k1d1BGcU1wcEJtbnJYcjQ1eWRpZU1UT0hfVUM0NzZOaFFmd19HZE5TUmVzWTh1M044V1NCYl9DdDBEOEpoclVtdHlOdlNaMmJPeVJhMW41Zi1OU1VYZzBiOVRxRTEtUFZleFdFdXNXQXZmdGpDT0JaaWx1Wk5OckRSU3lxXzBWdWFRdnVhRTg3X3ZkVjBucU1pOXlyOWdYVUE?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-12T05:06:00+00:00",
+   "found": "2026-11-12T16:37:00.055982+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola",
+    "outbreak"
+   ],
+   "title_tr": "MSF, Kongo'daki Ebola salgınının altı ay sonra hâlâ kontrol altına alınamadığını söylüyor"
+  },
   {
    "id": "20ad8267c508feb2",
    "title": "Tshisekedi paves way for constitutional change",
