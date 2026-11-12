@@ -1,6 +1,6 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-11T19:23:50.254419+00:00",
+ "generated_at": "2026-11-12T00:06:46.143052+00:00",
  "sources": [
   {
    "source": "BBC",
@@ -25,7 +25,7 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "source": "Reuters",
@@ -35,10 +35,26 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 25
+   "count": 26
   }
  ],
  "items": [
+  {
+   "id": "20ad8267c508feb2",
+   "title": "Tshisekedi paves way for constitutional change",
+   "summary": "In tonight's edition, A new law expanding the conditions for a constitutional referendum has ignited political tensions in the DRC. Also, Kenya has officially declared the end of its latest Ebola outbreak. And at COP31, environmental advocates are warning against waste incineration, arguing that it risks locking African cities into expensive and polluting infrastructure.",
+   "link": "https://www.france24.com/en/tshisekedi-paves-way-for-constitutional-change",
+   "source": "France 24",
+   "published": "2026-11-11T21:39:46+00:00",
+   "found": "2026-11-12T00:06:40.818937+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola",
+    "outbreak"
+   ],
+   "title_tr": "Tshisekedi anayasa değişikliğinin önünü açıyor",
+   "summary_tr": "Bu akşamki bölümde, anayasa referandumu koşullarını genişleten yeni bir yasa Demokratik Kongo Cumhuriyeti'nde siyasi gerilime yol açtı. Ayrıca Kenya, son Ebola salgınının sona erdiğini resmen ilan etti. Ayrıca COP31'de çevre savunucuları, Afrika kentlerini pahalı ve kirletici altyapılara mahkûm etme riski taşıdığı gerekçesiyle atık yakma uygulamalarına karşı uyarıda bulunuyor."
+  },
   {
    "id": "7af999f7b9d111cf",
    "title": "Islamic State group-affiliated rebels kill at least 22 in Congo’s eastern region",
@@ -219,6 +235,20 @@
     "kill"
    ],
    "title_tr": "Sivil toplum örgütü, IŞİD bağlantılı militanların Kongo'nun doğusundaki bir köye düzenlenen saldırıda en az 33 kişiyi öldürdüğünü açıkladı"
+  },
+  {
+   "id": "ab8f3d6d06a6edd6",
+   "title": "British healthcare worker with Ebola to be evacuated from Congo to UK, document shows",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcWlPc0VXTnppeWJBWUNQLUY3d0NoWXdJVjJwd0djQ1doZE5qOGFKNWdSVUFHTTdsR2ZkbC1hY2hyLS1ZZnZETlg2M0J3d3lPeDRocGJRLTgwTXdaTHpoR2VrcjZqYkFjLVZmU3BGNmhKZjNnLTlTWjVRU0xlNFdrZWJjRUYzR1pjQTNOVEdrSGRuNDU2RGRpNjc1U0JDNExjTE1hZFFwQUMxM0hJSWg3Z09ZYnZXV1BDeGdaVnE4TENDZnpqdFRLQnQ0QzVTRW50SFB0blRwWXVNTXF1ZkE?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-06T00:08:46+00:00",
+   "found": "2026-11-12T00:06:41.644124+00:00",
+   "priority": "high",
+   "tags": [
+    "ebola"
+   ],
+   "title_tr": "Belgelere göre Ebola'ya yakalanan İngiliz sağlık çalışanı Kongo'dan İngiltere'ye nakledilecek"
   },
   {
    "id": "f72a6c56b66b1f78",
