@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-12T22:36:20.149782+00:00",
+ "generated_at": "2026-11-13T03:10:15.179294+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "source": "Al Jazeera",
@@ -25,7 +25,7 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 23
+   "count": 26
   },
   {
    "source": "Reuters",
@@ -35,10 +35,24 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 23
+   "count": 18
   }
  ],
  "items": [
+  {
+   "id": "86f0912375f29c72",
+   "title": "Attacks on health workers hamper Congo Ebola fight, Africa CDC warns",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVjFjS1duU1pZR2ZyYkJKTzlRaW5Nemw5TlF5aS1PbkhZbFdPeDNSMXFRVXJXTjdUcmNjVEJ5YkkycHhyTXJubzdFazBxVEpVcks4Zl8zZzNZbExoRFB6cDFiLUs2aGNDa1F4aXRKTHN2RnRQUURvSHNrSmpCNmZ6N0dmcVZQWl9RbklDaUw0WkdaelRJaHkzZUlpT2J0a1BlQmt0TVNPSEg3V3Q1ckFZQlVpMUdtYUV4RFRlcWlyNXU2THV1di00bTF1bFQyOW5Ma0E?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-12T15:08:09+00:00",
+   "found": "2026-11-13T03:10:13.293227+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola"
+   ],
+   "title_tr": "Afrika Hastalık Kontrol ve Önleme Merkezi (CDC), sağlık çalışanlarına yönelik saldırıların Kongo'daki Ebola mücadelesini engellediği uyarısında bulundu"
+  },
   {
    "id": "5c3f7fbc37d7ffef",
    "title": "RDC: l’ONU ajoute le Front pour la refondation de la Nation à sa liste de mouvements sous sanctions",
