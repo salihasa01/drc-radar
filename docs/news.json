@@ -1,6 +1,6 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-13T11:24:41.826559+00:00",
+ "generated_at": "2026-11-13T18:40:06.397724+00:00",
  "sources": [
   {
    "source": "BBC",
@@ -35,10 +35,39 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 21
+   "count": 18
   }
  ],
  "items": [
+  {
+   "id": "2aa0cfae32019971",
+   "title": "Ebola en RDC: «On ne comprend pas pourquoi l'argent n'arrive pas dans les poches des travailleurs», interroge MSF",
+   "summary": "Six mois après la déclaration de l'épidémie d'Ebola en République démocratique du Congo, la situation reste hors de contrôle. Plus de 11 000 cas et 5 000 décès ont été enregistrés. Médecins sans frontières dénonce aujourd'hui un paradoxe : des centaines de millions de dollars ont été mobilisés pour combattre l'épidémie mais, sur le terrain, les soignants manquent toujours de moyens, les dispositif",
+   "link": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique-midi/20261113-ebola-en-rdc-on-ne-comprend-pas-pourquoi-l-argent-n-arrive-pas-dans-les-poches-des-travailleurs-interroge-msf",
+   "source": "RFI (FR)",
+   "published": "2026-11-13T16:57:34+00:00",
+   "found": "2026-11-13T18:39:59.667594+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola"
+   ],
+   "title_tr": "KDC'de Ebola: \"Paranın neden çalışanların cebine girmediğini anlamıyoruz\" diye soruyor MSF",
+   "summary_tr": "Demokratik Kongo Cumhuriyeti'nde Ebola salgınının ilan edilmesinden altı ay sonra, durum hâlâ kontrol edilemiyor. 11.000'den fazla vaka ve 5.000 ölüm kaydedildi. Sınır Tanımayan Doktorlar bugün bir çelişkiyi kınamaktadır: Salgınla mücadele için yüz milyonlarca dolar seferber edilmiş olmasına rağmen, sahada sağlık çalışanları hâlâ kaynaklardan yoksun durumdadır, sistemler"
+  },
+  {
+   "id": "11cf526612844fa4",
+   "title": "Attacks on health workers are 'hampering' Congo's Ebola fight, says CDC",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ybV9wak9RS0d4Q1IzWWxuM3o5M0o4RnVHRGRKU2xielZ6a3hOclBiNXhMUEt0ZVdZb1dqSnBrUkk1bk9aUHhhZW5wMmlVODVMTzFIUmlqZUxDUkFCbk1CQlIyUUh5dkE?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-13T15:23:26+00:00",
+   "found": "2026-11-13T18:40:00.311383+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola"
+   ],
+   "title_tr": "CDC, sağlık çalışanlarına yönelik saldırıların Kongo'nun Ebola ile mücadelesini \"engellediğini\" söylüyor"
+  },
   {
    "id": "25f47f96b46f48a9",
    "title": "Ebola en RDC: l’OMS s’alarme des conséquences des attaques armées sur la riposte à l’épidémie",
@@ -106,6 +135,20 @@
    ],
    "title_tr": "Demokratik Kongo Cumhuriyeti: Birleşmiş Milletler'in çeşitli kuruluşlarına göre, özellikle doğuda gıda ihtiyacı artıyor",
    "summary_tr": "Demokratik Kongo Cumhuriyeti'nde yaklaşık 29 milyon kişi gıda krizinden etkilenmektedir. Bunlar, Gıda Güvensizliğinin Ciddiyetini Değerlendiren ve Sınıflandıran, WFP, FAO, UNICEF ve diğer ortaklar tarafından koordine edilen bir araç olan Entegre Gıda Güvenliği Sınıflandırma Çerçevesi (IPC) tarafından yayımlanan en son verilerdir. Ve önümüzdeki aylara ilişkin tahminleri de..."
+  },
+  {
+   "id": "f452256a5407f405",
+   "title": "Barrick furloughs some employees at Congo mine as Ebola precaution, memo says",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbml1ZVlXcG1yWF9mWnNpdkZmd3JkUG9NWm1GRko2MHBkdWxqRm5DWU1RZWNlSWh1MHhqMXhSMm9idGJxTU1MQkFIQTU5cUdfSDYwQWhROEY1UTlMaFEyeTBpXzFzZWxjTU1NOUxOS0lheFdVZUNMQmMtMEx2bV9kUGVMdVlTMExRdUJnMkxUVDBvOFZxSHFRVjJFanVtUGI3WWZQdDU5NlEzYV9YM0RjNVczTHVFTlJkNDNKTENidy1pRVJveVQxTy1lSVl4ZmpjbUt0aDFuRXd4dw?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-12T20:21:02+00:00",
+   "found": "2026-11-13T18:40:00.298739+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola"
+   ],
+   "title_tr": "Bildiriye göre Barrick, Ebola önlemi olarak Kongo'daki madeninde bazı çalışanlarını izne ayırdı"
   },
   {
    "id": "86f0912375f29c72",
