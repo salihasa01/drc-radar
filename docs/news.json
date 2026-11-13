@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-13T03:10:15.179294+00:00",
+ "generated_at": "2026-11-13T11:24:41.826559+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "source": "Al Jazeera",
@@ -25,7 +25,7 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 26
+   "count": 24
   },
   {
    "source": "Reuters",
@@ -35,10 +35,78 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 18
+   "count": 21
   }
  ],
  "items": [
+  {
+   "id": "25f47f96b46f48a9",
+   "title": "Ebola en RDC: l’OMS s’alarme des conséquences des attaques armées sur la riposte à l’épidémie",
+   "summary": "L’Organisation mondiale de la santé (OMS) s'inquiète : l’insécurité dans l’est de la RDC est devenue l’un des plus importants obstacles à la riposte contre Ebola, alors que la semaine précédente, une attaque menée par le groupe armé ADF sur une localité du Nord-Kivu a ciblé plusieurs centres de santé et provoqué le déplacement de milliers de personnes, dont des cas contacts.",
+   "link": "https://www.rfi.fr/fr/afrique/20261113-ebola-rdc-oms-alarme-cons%C3%A9quences-attaques-arm%C3%A9es-sur-la-riposte",
+   "source": "RFI (FR)",
+   "published": "2026-11-13T10:17:38+00:00",
+   "found": "2026-11-13T11:24:27.882869+00:00",
+   "priority": "high",
+   "tags": [
+    "adf",
+    "attaque",
+    "ebola",
+    "insecurite"
+   ],
+   "title_tr": "KDC'de Ebola: DSÖ, silahlı saldırıların salgına karşı mücadeleye yönelik sonuçlarından endişe duyuyor",
+   "summary_tr": "Dünya Sağlık Örgütü (DSÖ), Demokratik Kongo Cumhuriyeti'nin (DKC) doğusundaki güvenlik sorunlarının Ebola'ya karşı mücadelenin önündeki en büyük engellerden biri haline geldiğinden endişe duyuyor. Geçen hafta ADF silahlı grubu tarafından Kuzey Kivu'da bir yerleşim yerine düzenlenen saldırıda çok sayıda sağlık merkezi hedef alınmış ve aralarında temaslı vakaların da bulunduğu binlerce kişi yerinden edilmiştir."
+  },
+  {
+   "id": "584e43188de5628f",
+   "title": "En RDC, les images détournées autour des combats dans l’est se multiplient",
+   "summary": "En République démocratique du Congo, la situation reste difficile dans l’est du pays. Malgré les initiatives diplomatiques, les combats se poursuivent entre les Forces armées congolaises et leurs alliés, et les combattants du Front pour la refondation de la nation (FRN). Ce mouvement politico-militaire, issu de l’AFC/M23 soutenu par le Rwanda, est dirigé par l’ancien président congolais Joseph Kab",
+   "link": "https://www.rfi.fr/fr/podcasts/les-dessous-de-l-infox-la-chronique/20261113-rdc-images-d%C3%A9tourn%C3%A9es-combats-est-se-multiplient",
+   "source": "RFI (FR)",
+   "published": "2026-11-13T09:56:19+00:00",
+   "found": "2026-11-13T11:24:27.879819+00:00",
+   "priority": "normal",
+   "tags": [
+    "afc/m23",
+    "affrontements",
+    "combats"
+   ],
+   "title_tr": "Doğu Kongo Demokratik Cumhuriyeti'ndeki çatışmalarla ilgili çarpıtılmış görüntüler çoğalıyor",
+   "summary_tr": "Demokratik Kongo Cumhuriyeti'nde ülkenin doğusundaki durum hâlâ zorlu. Diplomatik girişimlere rağmen, Kongo Silahlı Kuvvetleri ile müttefikleri ve Ulusun Yeniden Kuruluşu Cephesi (FRN) savaşçıları arasındaki çatışmalar devam etmektedir. Ruanda destekli AFC/M23'ten doğan bu siyasi-askerî hareketi, eski Kongo Devlet Başkanı Joseph Kabila yönetmektedir."
+  },
+  {
+   "id": "406af88317e2ebff",
+   "title": "RDC: au Sud-Kivu, l’ONU estime que 323 000 personnes ont fui les derniers combats",
+   "summary": "Dans l’est de la République démocratique du Congo, plus de 323 000 personnes ont fui les affrontements en quatre jours au Sud-Kivu. C’est l’estimation provisoire publiée le 11 novembre par le bureau humanitaire des Nations unies. Ces déplacements ont suivi l’offensive du Front pour la refondation de la nation (FRN), le mouvement politico-militaire dirigé par l’ancien président Joseph Kabila et sou",
+   "link": "https://www.rfi.fr/fr/afrique/20261113-rdc-au-sud-kivu-l-onu-estime-que-323-000-personnes-ont-fui-les-derniers-combats",
+   "source": "RFI (FR)",
+   "published": "2026-11-13T04:04:40+00:00",
+   "found": "2026-11-13T11:24:27.885797+00:00",
+   "priority": "high",
+   "tags": [
+    "affrontements",
+    "combats",
+    "offensive"
+   ],
+   "title_tr": "KDC: BM, Güney Kivu'da son çatışmalardan 323.000 kişinin kaçtığını tahmin ediyor",
+   "summary_tr": "Demokratik Kongo Cumhuriyeti'nin doğusunda, Güney Kivu'da dört gün içinde yaşanan çatışmalardan 323.000'den fazla kişi kaçtı. Bu, Birleşmiş Milletler İnsani Yardım Ofisi tarafından 11 Kasım'da yayımlanan geçici tahmindir. Bu yer değiştirmeler, eski Cumhurbaşkanı Joseph Kabila liderliğindeki siyasi-askeri hareket olan Ulusu Yeniden Kurma Cephesi'nin (FRN) saldırısının ardından gerçekleşti."
+  },
+  {
+   "id": "8a38b709aae479e5",
+   "title": "RDC: les besoins alimentaires s'accentuent selon plusieurs agences de l'ONU, notamment dans l'est",
+   "summary": "En République démocratique du Congo, près de 29 millions de personnes sont touchées par la crise alimentaire. Ce sont les dernières données publiées par le Cadre intégré de classification de la sécurité alimentaire (IPC), un outil coordonné par le PAM, la FAO, l’Unicef et d’autres partenaires qui évalue et classe la gravité de l’insécurité alimentaire. Et ses projections pour les mois à venir ne s",
+   "link": "https://www.rfi.fr/fr/afrique/20261113-rdc-la-crise-alimentaire-s-aggrave-et-touche-tout-le-pays-y-compris-kinshasa",
+   "source": "RFI (FR)",
+   "published": "2026-11-13T03:59:09+00:00",
+   "found": "2026-11-13T11:24:27.884666+00:00",
+   "priority": "normal",
+   "tags": [
+    "insecurite",
+    "securite"
+   ],
+   "title_tr": "Demokratik Kongo Cumhuriyeti: Birleşmiş Milletler'in çeşitli kuruluşlarına göre, özellikle doğuda gıda ihtiyacı artıyor",
+   "summary_tr": "Demokratik Kongo Cumhuriyeti'nde yaklaşık 29 milyon kişi gıda krizinden etkilenmektedir. Bunlar, Gıda Güvensizliğinin Ciddiyetini Değerlendiren ve Sınıflandıran, WFP, FAO, UNICEF ve diğer ortaklar tarafından koordine edilen bir araç olan Entegre Gıda Güvenliği Sınıflandırma Çerçevesi (IPC) tarafından yayımlanan en son verilerdir. Ve önümüzdeki aylara ilişkin tahminleri de..."
+  },
   {
    "id": "86f0912375f29c72",
    "title": "Attacks on health workers hamper Congo Ebola fight, Africa CDC warns",
