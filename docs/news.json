@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-13T18:40:06.397724+00:00",
+ "generated_at": "2026-11-14T00:11:37.222653+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "source": "Al Jazeera",
@@ -35,10 +35,29 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 18
+   "count": 19
   }
  ],
  "items": [
+  {
+   "id": "40bd7e1f67780925",
+   "title": "RDC: au moins 44 morts civils tués dans de nouvelles attaques des ADF dans le nord-est du pays",
+   "summary": "Africa CDC, le Centre africain de contrôle et de prévention des maladies rattaché à l’Union africaine, a fermement condamné l’attaque meurtrière contre des civils à Cantine, en territoire de Beni, au Nord-Kivu, dans la nuit du 5 au 6 novembre. Une attaque dans une zone où sévit l’épidémie d’Ebola et qui a été attribuée au mouvement jihadiste ADF, qui a prêté allégeance à l’organisation État islami",
+   "link": "https://www.rfi.fr/fr/afrique/20261113-rdc-au-moins-44-morts-civils-tu%C3%A9s-dans-de-nouvelles-attaques-des-adf-dans-le-nord-est-du-pays",
+   "source": "RFI (FR)",
+   "published": "2026-11-13T18:49:12+00:00",
+   "found": "2026-11-14T00:11:33.002766+00:00",
+   "priority": "high",
+   "tags": [
+    "adf",
+    "attaque",
+    "ebola",
+    "morts",
+    "tues"
+   ],
+   "title_tr": "Demokratik Kongo Cumhuriyeti: Ülkenin kuzeydoğusunda ADF'nin düzenlediği yeni saldırılarda en az 44 sivil hayatını kaybetti",
+   "summary_tr": "Afrika Birliği'ne bağlı Afrika Hastalık Kontrol ve Önleme Merkezi (Africa CDC), 5-6 Kasım gecesi Kuzey Kivu'nun Beni bölgesinde bulunan Cantine'de sivillere yönelik düzenlenen ölümcül saldırıyı şiddetle kınadı. Ebola salgınının hüküm sürdüğü bir bölgede gerçekleşen ve İslam Devleti örgütüne bağlılık yemini eden cihatçı ADF hareketine atfedilen bir saldırı"
+  },
   {
    "id": "2aa0cfae32019971",
    "title": "Ebola en RDC: «On ne comprend pas pourquoi l'argent n'arrive pas dans les poches des travailleurs», interroge MSF",
