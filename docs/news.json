@@ -1,6 +1,6 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-14T00:11:37.222653+00:00",
+ "generated_at": "2026-11-14T06:52:53.749422+00:00",
  "sources": [
   {
    "source": "BBC",
@@ -25,7 +25,7 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "source": "Reuters",
@@ -35,7 +35,7 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 19
+   "count": 20
   }
  ],
  "items": [
@@ -483,21 +483,6 @@
    ],
    "title_tr": "NBA, ABD'nin uyguladığı yaptırımlar nedeniyle Ruanda'nın milli takımının Afrika Ligi'nden çıkarıldığını açıkladı",
    "summary_tr": "ABD, Ruanda ordusuna Demokratik Kongo Cumhuriyeti'ndeki (DKC) çatışmada oynadığı rol nedeniyle yaptırım uyguladı."
-  },
-  {
-   "id": "27b50d1672c82ea6",
-   "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
-   "summary": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?",
-   "link": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "published": "2026-10-31T04:32:07+00:00",
-   "found": "2026-11-11T18:07:14.185427+00:00",
-   "priority": "normal",
-   "tags": [
-    "rebel"
-   ],
-   "title_tr": "Takım elbise ve botlar: Joseph Kabila'nın cumhurbaşkanlığından asi liderliğine uzanan yolu",
-   "summary_tr": "Joseph Kabila'nın yeni bir isyan hareketi başlatması Demokratik Kongo Cumhuriyeti için ne anlama geliyor?"
   }
  ]
 }
