@@ -1,6 +1,6 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-14T13:57:38.398644+00:00",
+ "generated_at": "2026-11-14T18:59:37.249919+00:00",
  "sources": [
   {
    "source": "BBC",
@@ -35,10 +35,25 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 20
+   "count": 22
   }
  ],
  "items": [
+  {
+   "id": "ca17cea0f86ef73b",
+   "title": "DR Congo, Rwanda clash over Francophonie leadership as Macron seeks compromise",
+   "summary": "DR Congo and Rwanda clashed Saturday over the leadership of the Francophonie, as tensions between the neighbouring countries spilled into the race to head the 53-member organisation. French President Emmanuel Macron urged Rwanda to withdraw its candidate in favour of a compromise choice ahead of Monday's vote.",
+   "link": "https://www.france24.com/en/africa/20261114-dr-congo-rwanda-clash-over-francophonie-leadership-as-macron-seeks-compromise",
+   "source": "France 24",
+   "published": "2026-11-14T14:54:43+00:00",
+   "found": "2026-11-14T18:59:33.130525+00:00",
+   "priority": "normal",
+   "tags": [
+    "clash"
+   ],
+   "title_tr": "Macron uzlaşma arayışındayken Demokratik Kongo Cumhuriyeti ile Ruanda arasında Frankofoni liderliği konusunda anlaşmazlık yaşanıyor",
+   "summary_tr": "Komşu ülkeler arasındaki gerilim 53 üyeli örgütün başkanlığı için verilen mücadeleye yansırken, Demokratik Kongo Cumhuriyeti ve Ruanda Cumartesi günü Frankofoni'nin başkanlığı konusunda karşı karşıya geldi. Fransa Cumhurbaşkanı Emmanuel Macron, pazartesi günkü oylama öncesinde Ruanda'yı uzlaşmacı bir aday lehine kendi adayını geri çekmeye çağırdı."
+  },
   {
    "id": "40bd7e1f67780925",
    "title": "RDC: au moins 44 morts civils tués dans de nouvelles attaques des ADF dans le nord-est du pays",
