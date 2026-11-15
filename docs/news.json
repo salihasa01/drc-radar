@@ -1,6 +1,6 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-15T09:46:11.456403+00:00",
+ "generated_at": "2026-11-15T16:50:32.967992+00:00",
  "sources": [
   {
    "source": "BBC",
@@ -35,10 +35,26 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 29
+   "count": 22
   }
  ],
  "items": [
+  {
+   "id": "675a6e8b06b05884",
+   "title": "Ebola: «L'absence de vaccin explique l'ampleur de cette épidémie», selon Jean Kaseya (Africa CDC)",
+   "summary": "Six mois jour pour jour après le déclenchement de l'épidémie d'Ebola en République démocratique du Congo, le bilan est dramatique : plus de 11 000 contaminations, près de 5 500 morts. Le virus continue de se propager, malgré les moyens considérables mobilisés pour tenter de l'endiguer. Pour en parler, notre invité est Jean Kaseya, directeur général d'Africa CDC, le Centre africain de contrôle et d",
+   "link": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20261115-ebola-l-absence-de-vaccin-explique-l-ampleur-de-cette-%C3%A9pid%C3%A9mie-dit-jean-kaseya-africa-cdc",
+   "source": "RFI (FR)",
+   "published": "2026-11-15T13:53:29+00:00",
+   "found": "2026-11-15T16:50:28.790066+00:00",
+   "priority": "high",
+   "tags": [
+    "ebola",
+    "morts"
+   ],
+   "title_tr": "Ebola: Jean Kaseya'ya (Afrika CDC) göre \"Bu salgının boyutunun nedeni, bir aşının olmamasıdır\"",
+   "summary_tr": "Demokratik Kongo Cumhuriyeti'nde Ebola salgınının başlamasından tam altı ay sonra, bilanço dramatik: 11.000'den fazla enfeksiyon vakası, yaklaşık 5.500 ölüm. Virüs, yayılmasını önlemeye yönelik seferber edilen önemli kaynaklara rağmen yayılmaya devam ediyor. Bu konuda konuşmak üzere konuğumuz Afrika Hastalık Kontrol ve Önleme Merkezi (Africa CDC) Genel Müdürü Jean Kaseya."
+  },
   {
    "id": "d97f6208384d6659",
    "title": "Ebola outbreak remains out of control in Congo 6 months into response",
