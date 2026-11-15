@@ -1,6 +1,6 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-14T22:55:39.562639+00:00",
+ "generated_at": "2026-11-15T02:26:13.496897+00:00",
  "sources": [
   {
    "source": "BBC",
@@ -35,10 +35,26 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 21
+   "count": 22
   }
  ],
  "items": [
+  {
+   "id": "1ac3da7d3147fcdb",
+   "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+   "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+   "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "published": "2026-11-15T00:06:55+00:00",
+   "found": "2026-11-15T02:26:08.807217+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola",
+    "outbreak"
+   ],
+   "title_tr": "Annem Ebola için tedavi olursam öleceğimi söyledi. Hayatta kalabileceğinizin kanıtıyım.",
+   "summary_tr": "DR Kongo'daki Ebola salgını korku ve yanlış bilgilerle çevrili. Dr. Kamwanga'nın annesi de bundan muaf değildi."
+  },
   {
    "id": "ca17cea0f86ef73b",
    "title": "DR Congo, Rwanda clash over Francophonie leadership as Macron seeks compromise",
