@@ -1,6 +1,6 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-15T02:26:13.496897+00:00",
+ "generated_at": "2026-11-15T09:46:11.456403+00:00",
  "sources": [
   {
    "source": "BBC",
@@ -35,10 +35,55 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 22
+   "count": 29
   }
  ],
  "items": [
+  {
+   "id": "d97f6208384d6659",
+   "title": "Ebola outbreak remains out of control in Congo 6 months into response",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSVhKNmdzYlJFM2diX0VPVXgtM1oyY2dVZTBlQTREWUtidDAwejNMa1hXeHFtUGJDcU02el85VWRCT2FJWXZwWVFHcGVtSXBwQURpU1UyQjh6b3hBNVlIc1ltM0Q2dlBNVDVfQndSYUZnSnJIVjlYM3M1UXhXSW1ieFJaMU1lUGFGVEE?oc=5",
+   "source": "AP",
+   "published": "2026-11-15T07:23:38+00:00",
+   "found": "2026-11-15T09:46:04.698865+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola",
+    "outbreak"
+   ],
+   "title_tr": "Ebola salgını, müdahalenin başlamasından 6 ay sonra hâlâ kontrol altında değil"
+  },
+  {
+   "id": "6b6054b17b50bd15",
+   "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
+   "summary": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
+   "link": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-15T05:05:02+00:00",
+   "found": "2026-11-15T09:46:03.445689+00:00",
+   "priority": "normal",
+   "tags": [
+    "clash"
+   ],
+   "title_tr": "Frankofon Zirvesi, Ruanda-DR Kongo anlaşmazlığı sürerken Kamboçya'da başladı",
+   "summary_tr": "Demokratik Kongo Cumhuriyeti ve Ruanda, Fransızca konuşan ülkeler örgütüne kimin liderlik etmesi gerektiği konusunda karşı karşıya geldi."
+  },
+  {
+   "id": "5a5d03e4ae1e1007",
+   "title": "Ebola en RDC: six mois après son apparition, l'épidémie poursuit sa progression",
+   "summary": "Officialisée le 15 mai dernier, l'épidémie d'Ebola qui sévit actuellement dans l'est de la RDC continue de se propager : six mois après avoir éclaté en Ituri, celle-ci touche désormais huit provinces du territoire congolais. Si la recherche pour la mise au point de traitements et de vaccins progresse, la riposte sur le terrain se heurte, elle, à plusieurs obstacles.",
+   "link": "https://www.rfi.fr/fr/afrique/20261115-ebola-en-rdc-six-mois-apr%C3%A8s-son-apparition-l-%C3%A9pid%C3%A9mie-poursuit-sa-progression",
+   "source": "RFI (FR)",
+   "published": "2026-11-15T04:12:01+00:00",
+   "found": "2026-11-15T09:46:03.950970+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola"
+   ],
+   "title_tr": "RDC'de Ebola: Görülmeye başlamasından altı ay sonra salgın yayılmaya devam ediyor",
+   "summary_tr": "Geçtiğimiz 15 Mayıs'ta resmen ilan edilen ve şu anda Demokratik Kongo Cumhuriyeti'nin (DKC) doğusunda etkili olan Ebola salgını yayılmaya devam ediyor: Ituri'de patlak vermesinden altı ay sonra, artık Kongo topraklarının sekiz eyaletini etkilemektedir. Tedavi ve aşı geliştirme çalışmaları ilerleme kaydetse de, sahada verilen mücadele çeşitli engellerle karşı karşıya kalmaktadır."
+  },
   {
    "id": "1ac3da7d3147fcdb",
    "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
