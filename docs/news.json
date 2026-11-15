@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-15T16:50:32.967992+00:00",
+ "generated_at": "2026-11-15T21:29:33.193767+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "source": "Al Jazeera",
@@ -35,10 +35,26 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 22
+   "count": 24
   }
  ],
  "items": [
+  {
+   "id": "f3c0fc7df4585e50",
+   "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
+   "summary": "'If we don't stop this outbreak now, it would be the worst Ebola outbreak,' Africa ​CDC director says.",
+   "link": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-15T20:07:06+00:00",
+   "found": "2026-11-15T21:29:28.039651+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola",
+    "outbreak"
+   ],
+   "title_tr": "Afrika Hastalık Kontrol ve Önleme Merkezi (CDC), Demokratik Kongo Cumhuriyeti'ndeki Ebola salgınının \"hâlâ kontrol altında olmadığını\" söylüyor",
+   "summary_tr": "Afrika Hastalık Kontrol ve Önleme Merkezi (CDC) Direktörü, \"Bu salgını şimdi durdurmazsak en kötü Ebola salgını olur\" diyor."
+  },
   {
    "id": "675a6e8b06b05884",
    "title": "Ebola: «L'absence de vaccin explique l'ampleur de cette épidémie», selon Jean Kaseya (Africa CDC)",
