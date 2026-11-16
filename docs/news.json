@@ -1,6 +1,6 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-16T01:20:49.335786+00:00",
+ "generated_at": "2026-11-16T08:19:57.515531+00:00",
  "sources": [
   {
    "source": "BBC",
@@ -25,7 +25,7 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 23
+   "count": 25
   },
   {
    "source": "Reuters",
@@ -35,10 +35,25 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 22
+   "count": 21
   }
  ],
  "items": [
+  {
+   "id": "e4ad3f615228930a",
+   "title": "Congo Ebola outbreak not under control six months in, says Africa CDC",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BNERXQU1KRXUxN1dzUWlnZjU0bDZ1MWZvTFFSOUZLd3lJUl9ZVHdaNG1taUJxUFU0Z192Q2pCQjgyZTgxcFYwSUUyQ1BqTFJrTzEtQ1FxdTlUVG1WYXRzME1xMHpkVWs?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-16T02:42:32+00:00",
+   "found": "2026-11-16T08:19:55.667426+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola",
+    "outbreak"
+   ],
+   "title_tr": "Afrika Hastalık Kontrol ve Önleme Merkezi (CDC), Kongo'daki Ebola salgınının altı aydır kontrol altına alınamadığını söylüyor"
+  },
   {
    "id": "895b06882a1869a7",
    "title": "Ebola en RDC : 55 471 décès pour 11 197 cas cumulés ont été recensés en six mois",
