@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-16T08:19:57.515531+00:00",
+ "generated_at": "2026-11-16T18:47:01.799575+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "source": "Al Jazeera",
@@ -25,7 +25,7 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "source": "Reuters",
@@ -39,6 +39,56 @@
   }
  ],
  "items": [
+  {
+   "id": "f3c7d5f5e7bd4d3f",
+   "title": "RD Congo : près de 5 500 décès depuis le début de l'épidémie d'ébola",
+   "summary": "Les rebelles ADF, liés à l'État islamique, ont attaqué, le 5 novembre, la ville de Cantine-Aloya, en République démocratique du Congo, tuant 66 civils, dont trois travailleurs de santé. L'insécurité permet au virus Ebola de \"prendre une longueur d'avance, ce qui entrave notre réponse\", a regretté le responsable de la préparation aux urgences de l'Africa CDC, Wessam Mankoula. Les explications d'Aur",
+   "link": "https://www.france24.com/fr/vid%C3%A9o/20261116-rd-congo-pr%C3%A8s-de-5-500-d%C3%A9c%C3%A8s-depuis-le-d%C3%A9but-de-l-%C3%A9pid%C3%A9mie-d-%C3%A9bola",
+   "source": "France 24 (FR)",
+   "published": "2026-11-16T13:27:36+00:00",
+   "found": "2026-11-16T18:46:51.130901+00:00",
+   "priority": "high",
+   "tags": [
+    "adf",
+    "attaque",
+    "ebola",
+    "insecurite",
+    "rebelles"
+   ],
+   "title_tr": "Demokratik Kongo Cumhuriyeti: Ebola salgınının başlangıcından bu yana yaklaşık 5.500 ölüm",
+   "summary_tr": "IŞİD ile bağlantılı ADF isyancıları, 5 Kasım'da Demokratik Kongo Cumhuriyeti'ndeki Cantine-Aloya kasabasına saldırarak aralarında üç sağlık çalışanının da bulunduğu 66 sivili öldürdü. Afrika CDC Acil Durum Hazırlık Sorumlusu Wessam Mankoula, güvensizliğin Ebola virüsünün \"bir adım öne geçmesine olanak tanıdığını ve bunun da müdahalemizi engellediğini\" belirterek üzüntüsünü dile getirdi. Aur'un açıklamaları"
+  },
+  {
+   "id": "fb5a8472e9781a14",
+   "title": "Ebola en RDC : l'épidémie a fait plus de 5400 mort en six mois",
+   "summary": "🇨🇩 En République démocratique du Congo, l’épidémie d’Ebola a fait 5 471 morts sur 11 197 cas recensés en six mois, selon le dernier bilan des autorités sanitaires. Déclarée le 15 mai, cette 17e flambée est la plus meurtrière de l’histoire du pays.",
+   "link": "https://www.france24.com/fr/vid%C3%A9o/20261116-ebola-en-rdc-l-%C3%A9pid%C3%A9mie-a-fait-plus-de-5400-mort-en-six-mois",
+   "source": "France 24 (FR)",
+   "published": "2026-11-16T11:36:09+00:00",
+   "found": "2026-11-16T18:46:51.131333+00:00",
+   "priority": "high",
+   "tags": [
+    "ebola",
+    "morts"
+   ],
+   "title_tr": "RDC'de Ebola: Salgın altı ayda 5.400'den fazla kişinin ölümüne neden oldu",
+   "summary_tr": "🇨🇩 Demokratik Kongo Cumhuriyeti'nde, sağlık yetkililerinin son verilerine göre Ebola salgını altı ay içinde tespit edilen 11.197 vakanın 5.471'inin ölümüne neden oldu. 15 Mayıs'ta ilan edilen bu 17. salgın, ülke tarihindeki en ölümcül salgın."
+  },
+  {
+   "id": "2e022e06b887e218",
+   "title": "RDC: Grève contre l’interdiction des baleinières en bois et pour exiger une «décision concertée» avec Kinshasa",
+   "summary": "En RDC, les armateurs de baleinières en bois décrètent une grève générale de la navigation à partir de ce 16 novembre pour dénoncer leur interdiction à compter du 15 novembre. « C'est difficile d’avoir une embarcation métallique en deux mois ou trois mois », conteste un représentant de cette profession très critiquée suite aux nombreux naufrages fluviaux des dernières années. « Ces morts d'hommes ",
+   "link": "https://www.rfi.fr/fr/afrique/20261116-rdc-gr%C3%A8ve-contre-l-interdiction-des-baleini%C3%A8res-en-bois-et-pour-exiger-une-d%C3%A9cision-concert%C3%A9e-avec-kinshasa",
+   "source": "RFI (FR)",
+   "published": "2026-11-16T08:54:57+00:00",
+   "found": "2026-11-16T18:46:51.367838+00:00",
+   "priority": "high",
+   "tags": [
+    "morts"
+   ],
+   "title_tr": "DRC: Ahşap kayıkların yasaklanmasına karşı ve Kinşasa ile \"ortak bir karar\" talep etmek için grev",
+   "summary_tr": "KDC'de ahşap kayık sahipleri, 15 Kasım'dan itibaren geçerli olacak yasaklamayı protesto etmek amacıyla 16 Kasım'dan itibaren genel bir sefer grevi ilan ettiler. Son yıllarda yaşanan çok sayıda nehir kazasının ardından yoğun eleştirilere maruz kalan bu mesleğin bir temsilcisi, \"İki veya üç ay içinde metal bir tekneye sahip olmak zor\" diyerek itiraz ediyor. \"Bu insan ölümleri"
+  },
   {
    "id": "e4ad3f615228930a",
    "title": "Congo Ebola outbreak not under control six months in, says Africa CDC",
