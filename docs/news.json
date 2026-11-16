@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-15T21:29:33.193767+00:00",
+ "generated_at": "2026-11-16T01:20:49.335786+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "source": "Al Jazeera",
@@ -35,10 +35,25 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 24
+   "count": 22
   }
  ],
  "items": [
+  {
+   "id": "895b06882a1869a7",
+   "title": "Ebola en RDC : 55 471 décès pour 11 197 cas cumulés ont été recensés en six mois",
+   "summary": "En RD Congo, six mois que sévit l’épidémie d’Ebola. Déclarée officiellement le 15 mai dernier, cette 17ᵉ épidémie est devenue, en quelques mois, la plus meurtrière de l’histoire du pays, qui compte plus de 100 millions d’habitants. Selon le dernier bilan des autorités sanitaires, 5 471 décès pour 11 197 cas cumulés ont été recensés.",
+   "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261115-ebola-en-rdc-55-471-d%C3%A9c%C3%A8s-pour-11-197-cas-cumul%C3%A9s-ont-%C3%A9t%C3%A9-recens%C3%A9s-en-six-mois",
+   "source": "France 24 (FR)",
+   "published": "2026-11-15T22:17:57+00:00",
+   "found": "2026-11-16T01:20:45.348276+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola"
+   ],
+   "title_tr": "KDC'de Ebola: Altı ayda toplam 11.197 vaka tespit edilmiş olup 5.471 kişi hayatını kaybetmiştir",
+   "summary_tr": "Demokratik Kongo Cumhuriyeti'nde Ebola salgını altı aydır devam ediyor. Geçtiğimiz 15 Mayıs'ta resmen ilan edilen bu 17. salgın, birkaç ay içinde 100 milyondan fazla nüfusa sahip ülkenin tarihinde en ölümcül salgın haline geldi. Sağlık yetkililerinin son verilerine göre, toplam 11.197 vaka içinde 5.471 ölüm kaydedilmiştir."
+  },
   {
    "id": "f3c0fc7df4585e50",
    "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
