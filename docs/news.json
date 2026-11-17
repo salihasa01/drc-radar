@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-17T02:19:23.210052+00:00",
+ "generated_at": "2026-11-17T10:59:00.429500+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "source": "Al Jazeera",
@@ -25,7 +25,7 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "source": "Reuters",
@@ -35,10 +35,37 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 18
+   "count": 19
   }
  ],
  "items": [
+  {
+   "id": "b635c86e15a7b994",
+   "title": "Congo's Ebola outbreak is spreading and killing at a record pace",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOEFWMzBNRHVFZGVza1RSRXBVZkxZZlJuUmI3cDYzc1Z0RU4xTmZvM0lWZzBTdFRCXzlaUURKQTBRX2FBakk2eWtXN1JYelhKNjdvRmd1TDZxUFJCQ3puQ0lYOW5aYzd2cmF3YUxCaGtONUE4YXJPc1VRQmY0dGp1NjBZTzFSYUJUdHFramt0SEV1Tmx5TGVlUG1hVHlFbjh1WTdvUWR4N2NCRExCT1lVM1FUZjFiM0ZPeTkxTHJ5Z2w2M3pK?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-17T10:45:45+00:00",
+   "found": "2026-11-17T10:58:54.740815+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola",
+    "outbreak"
+   ]
+  },
+  {
+   "id": "3d84ef2ed8b6a4d8",
+   "title": "Barrick furloughing some Congo mine personnel over Ebola concerns",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWmtOMFNJRmJpM1ZqTkhVendhX3EyRnRlYjExbFNielVOQzdtVnQtcDZ0eHN0NXM3QXRqd2RGckNYWDhKNVFtMExLbGgwRVNIVjBkd2VicWYwcDN3cnJxTmhRRWthdTRLYTVfMEVZN0VoY3l1WlVTLVZXUnU0S1p2cnZVblFwc2ZXNzNKRzlQNlJpLWI3SEw5WTZrX0RUZ25NdFZMZ1M2Ri16YTRPQU1TYVFtaXVXb0c2NU9fU2ZiaHp2NmRlOHVPVlNiTUtCV1VzT3Y4?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-17T07:35:00+00:00",
+   "found": "2026-11-17T10:58:54.740684+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola"
+   ]
+  },
   {
    "id": "f3c7d5f5e7bd4d3f",
    "title": "RD Congo : près de 5 500 décès depuis le début de l'épidémie d'ébola",
