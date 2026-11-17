@@ -1,6 +1,6 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-17T10:59:00.429500+00:00",
+ "generated_at": "2026-11-17T19:44:34.792143+00:00",
  "sources": [
   {
    "source": "BBC",
@@ -30,12 +30,12 @@
   {
    "source": "Reuters",
    "ok": true,
-   "count": 100
+   "count": 99
   },
   {
    "source": "AP",
    "ok": true,
-   "count": 19
+   "count": 18
   }
  ],
  "items": [
@@ -51,7 +51,8 @@
    "tags": [
     "ebola",
     "outbreak"
-   ]
+   ],
+   "title_tr": "Kongo'daki Ebola salgını rekor bir hızla yayılıyor ve can alıyor"
   },
   {
    "id": "3d84ef2ed8b6a4d8",
@@ -64,7 +65,8 @@
    "priority": "normal",
    "tags": [
     "ebola"
-   ]
+   ],
+   "title_tr": "Barrick, Ebola endişeleri nedeniyle bazı Kongo maden personelini izne ayırıyor"
   },
   {
    "id": "f3c7d5f5e7bd4d3f",
