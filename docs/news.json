@@ -1,6 +1,6 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-16T18:47:01.799575+00:00",
+ "generated_at": "2026-11-17T02:19:23.210052+00:00",
  "sources": [
   {
    "source": "BBC",
@@ -25,7 +25,7 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "source": "Reuters",
@@ -35,7 +35,7 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 21
+   "count": 18
   }
  ],
  "items": [
