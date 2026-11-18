@@ -1,6 +1,6 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-18T02:09:18.350032+00:00",
+ "generated_at": "2026-11-18T10:30:12.884788+00:00",
  "sources": [
   {
    "source": "BBC",
@@ -25,7 +25,7 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 23
+   "count": 25
   },
   {
    "source": "Reuters",
@@ -35,10 +35,58 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 18
+   "count": 19
   }
  ],
  "items": [
+  {
+   "id": "6be1dd5e21f620a8",
+   "title": "Est de la RDC: des attaques attribuées aux ADF font au moins 75 morts",
+   "summary": "En République démocratique du Congo (RDC), une nouvelle flambée de violence est attribuée aux ADF, ce groupe armé jihadiste qui sévit dans l’est du pays. En une semaine, 75 civils ont été tués lors d’attaques sur différentes localités du territoire de Mambasa, dans la province de l’Ituri. La dernière a eu lieu en fin de matinée samedi 14 novembre à Ekatu.",
+   "link": "https://www.rfi.fr/fr/afrique/20261118-est-de-la-rdc-des-attaques-attribu%C3%A9es-aux-adf-font-au-moins-75-morts",
+   "source": "RFI (FR)",
+   "published": "2026-11-18T10:15:45+00:00",
+   "found": "2026-11-18T10:30:01.282432+00:00",
+   "priority": "high",
+   "tags": [
+    "adf",
+    "morts",
+    "tues",
+    "violence"
+   ],
+   "title_tr": "Doğu Demokratik Kongo Cumhuriyeti: ADF'ye atfedilen saldırılarda en az 75 kişi öldü",
+   "summary_tr": "Demokratik Kongo Cumhuriyeti'nde (DKC), ülkenin doğusunda faaliyet gösteren silahlı cihatçı grup ADF'ye yeni bir şiddet dalgası atfediliyor. Bir hafta içinde, Ituri eyaletindeki Mambasa bölgesinin çeşitli yerleşim yerlerine düzenlenen saldırılarda 75 sivil öldürüldü. Son saldırı, 14 Kasım Cumartesi günü sabahın geç saatlerinde Ekatu'da gerçekleşti."
+  },
+  {
+   "id": "cdf14802ffb22f3e",
+   "title": "RDC: l'armée dément avoir bombardé une ferme appartenant à Joseph Kabila",
+   "summary": "Commandant de la 22e région militaire de RDC, le général Eddy Kapend a affirmé, mardi 17 novembre, que l'armée congolaise n'avait pas attaqué une ferme située à proximité de Lubumbashi appartenant à Joseph Kabila, contrairement à ce qu'affirme le Front pour la refondation de la nation (FRN) dirigé par l'ancien président.",
+   "link": "https://www.rfi.fr/fr/afrique/20261118-rdc-l-arm%C3%A9e-d%C3%A9ment-avoir-bombard%C3%A9-une-ferme-appartenant-%C3%A0-joseph-kabila",
+   "source": "RFI (FR)",
+   "published": "2026-11-18T03:59:54+00:00",
+   "found": "2026-11-18T10:30:01.285246+00:00",
+   "priority": "high",
+   "tags": [
+    "armee",
+    "attaque"
+   ],
+   "title_tr": "KDC: Ordu, Joseph Kabila'ya ait bir çiftliğe bomba attığını reddetti",
+   "summary_tr": "DRC'nin 22. Askeri Bölgesi Komutanı General Eddy Kapend, 17 Kasım Salı günü, eski Devlet Başkanı Joseph Kabila'nın liderliğindeki Ulusu Yeniden Kurma Cephesi'nin (FRN) iddialarının aksine, Kongo ordusunun Lubumbashi yakınlarındaki ve Kabila'ya ait bir çiftliğe saldırmadığını söyledi."
+  },
+  {
+   "id": "e097b5aa387210c0",
+   "title": "UN appeals for support as Ebola kills 5,500 people in DRC",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qQnVIUmtZWElqU1lwNTEwY29xLUJ2ck1LbnM3NV9XZnJaQWV0SkEwMXAyZWROeGFERDNqdkFlTW5idWZvVW85V3BhLU1BbENOa1ctRl8zSFNWdHloYmlzMHc3bmZoY0V0alRKS0tTZnFuUDJoU2g0?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-18T03:40:53+00:00",
+   "found": "2026-11-18T10:30:01.750338+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola"
+   ],
+   "title_tr": "BM, Demokratik Kongo Cumhuriyeti'nde (DKC) Ebola'nın 5.500 kişiyi öldürmesi üzerine destek çağrısında bulundu"
+  },
   {
    "id": "4931add3adfc7289",
    "title": "DR Congo’s rival peace efforts fail to halt violence in the east",
