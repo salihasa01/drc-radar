@@ -1,6 +1,6 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-17T19:44:34.792143+00:00",
+ "generated_at": "2026-11-18T02:09:18.350032+00:00",
  "sources": [
   {
    "source": "BBC",
@@ -25,7 +25,7 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "source": "Reuters",
@@ -39,6 +39,22 @@
   }
  ],
  "items": [
+  {
+   "id": "4931add3adfc7289",
+   "title": "DR Congo’s rival peace efforts fail to halt violence in the east",
+   "summary": "Diplomatic efforts struggle to end fighting in eastern DRC as civilians continue to bear the cost of conflict.",
+   "link": "https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T00:57:56+00:00",
+   "found": "2026-11-18T02:09:13.461340+00:00",
+   "priority": "normal",
+   "tags": [
+    "fighting",
+    "violence"
+   ],
+   "title_tr": "DR Kongo'daki rakip barış girişimleri doğudaki şiddeti durduramıyor",
+   "summary_tr": "Siviller çatışmanın bedelini ödemeye devam ederken, diplomatik çabalarla Doğu Demokratik Kongo Cumhuriyeti'ndeki (DCC) çatışmaları sona erdirmeye çalışılıyor."
+  },
   {
    "id": "b635c86e15a7b994",
    "title": "Congo's Ebola outbreak is spreading and killing at a record pace",
