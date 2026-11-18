@@ -1,6 +1,6 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-18T10:30:12.884788+00:00",
+ "generated_at": "2026-11-18T19:00:15.519319+00:00",
  "sources": [
   {
    "source": "BBC",
@@ -25,7 +25,7 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 25
+   "count": 23
   },
   {
    "source": "Reuters",
@@ -35,7 +35,7 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 19
+   "count": 20
   }
  ],
  "items": [
@@ -748,22 +748,6 @@
     "ebola"
    ],
    "title_tr": "Ebola hastası İngiliz doktor tedavi için Kongo'dan Londra'ya döndü"
-  },
-  {
-   "id": "7ac42405dd58af7f",
-   "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-   "summary": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
-   "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "published": "2026-11-04T11:46:09+00:00",
-   "found": "2026-11-11T18:07:14.186770+00:00",
-   "priority": "normal",
-   "tags": [
-    "army",
-    "sanctions"
-   ],
-   "title_tr": "NBA, ABD'nin uyguladığı yaptırımlar nedeniyle Ruanda'nın milli takımının Afrika Ligi'nden çıkarıldığını açıkladı",
-   "summary_tr": "ABD, Ruanda ordusuna Demokratik Kongo Cumhuriyeti'ndeki (DKC) çatışmada oynadığı rol nedeniyle yaptırım uyguladı."
   }
  ]
 }
