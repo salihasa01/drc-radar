@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-19T09:10:42.442350+00:00",
+ "generated_at": "2026-11-19T18:31:07.568742+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 33
+   "count": 31
   },
   {
    "source": "Al Jazeera",
@@ -25,20 +25,35 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "source": "Reuters",
-   "ok": true,
-   "count": 99
+   "ok": false,
+   "count": 0
   },
   {
    "source": "AP",
    "ok": true,
-   "count": 22
+   "count": 23
   }
  ],
  "items": [
+  {
+   "id": "91ca72513d1685f6",
+   "title": "US has 'unbalanced approach' on DR Congo deal, Rwanda's foreign minister says",
+   "summary": "In an interview with FRANCE 24, Rwandan Foreign Minister Olivier Nduhungirehe said the Trump administration had \"an unbalanced approach\" in implementing the DR Congo peace deal it brokered. He also said that the recent row over the Organisation Internationale de la Francophonie's top job was \"manufactured in Paris and Kinshasa\". Finally, he defended a deal for Rwanda to host failed asylum seekers ",
+   "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261119-us-has-unbalanced-approach-on-dr-congo-deal-rwanda-s-foreign-minister-says",
+   "source": "France 24",
+   "published": "2026-11-19T17:07:09+00:00",
+   "found": "2026-11-19T18:31:02.655636+00:00",
+   "priority": "normal",
+   "tags": [
+    "peace deal"
+   ],
+   "title_tr": "Ruanda Dışişleri Bakanı, ABD'nin Demokratik Kongo Cumhuriyeti anlaşmasına \"dengesiz bir yaklaşım\" sergilediğini söyledi",
+   "summary_tr": "Ruanda Dışişleri Bakanı Olivier Nduhungirehe, FRANCE 24'e verdiği röportajda Trump yönetiminin aracılık ettiği Demokratik Kongo Cumhuriyeti barış anlaşmasını uygulamada \"dengesiz bir yaklaşım\" sergilediğini söyledi. Ayrıca, Uluslararası Frankofoni Örgütü'nün en üst düzey pozisyonuyla ilgili son tartışmanın \"Paris ve Kinşasa'da uydurulduğunu\" söyledi. Son olarak, Ruanda'nın reddedilen sığınmacılara ev sahipliği yapmasına ilişkin anlaşmayı savundu."
+  },
   {
    "id": "0e82a805b0dd3977",
    "title": "Ebola en RDC: MSF forcée de déplacer les activités d'un hôpital suite à des combats dans le Sud-Kivu",
