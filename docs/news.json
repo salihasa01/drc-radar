@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-19T01:21:18.673958+00:00",
+ "generated_at": "2026-11-19T09:10:42.442350+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "source": "Al Jazeera",
@@ -25,7 +25,7 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "source": "Reuters",
@@ -39,6 +39,25 @@
   }
  ],
  "items": [
+  {
+   "id": "0e82a805b0dd3977",
+   "title": "Ebola en RDC: MSF forcée de déplacer les activités d'un hôpital suite à des combats dans le Sud-Kivu",
+   "summary": "En République démocratique du Congo (RDC), des affrontements entre l’armée congolaise (FARDC) et le Front pour la refondation de la Nation (FRN), mouvement politico-militaire dirigé par l’ex-président Joseph Kabila et soutenu par Kigali, ont lieu depuis le début du mois dans le nord de la province du Sud-Kivu, limitrophe de celle du Nord-Kivu. Une situation qui a provoqué d’importants mouvements d",
+   "link": "https://www.rfi.fr/fr/afrique/20261119-ebola-rdc-msf-forc%C3%A9e-d%C3%A9placer-activit%C3%A9s-h%C3%B4pital-suite-combats-sud-kivu",
+   "source": "RFI (FR)",
+   "published": "2026-11-19T09:03:12+00:00",
+   "found": "2026-11-19T09:10:36.667777+00:00",
+   "priority": "normal",
+   "tags": [
+    "affrontements",
+    "armee",
+    "combats",
+    "ebola",
+    "fardc"
+   ],
+   "title_tr": "KDC'de Ebola: MSF, Güney Kivu'daki çatışmalar nedeniyle bir hastanenin faaliyetlerini başka bir yere taşımak zorunda kaldı",
+   "summary_tr": "Demokratik Kongo Cumhuriyeti'nde (DKC), Kongo ordusu (FARDC) ile eski Cumhurbaşkanı Joseph Kabila liderliğindeki ve Kigali tarafından desteklenen siyasi-askeri bir hareket olan Ulusu Yeniden Kurma Cephesi (FRN) arasında, ayın başından bu yana Kuzey Kivu eyaletine komşu olan Güney Kivu eyaletinin kuzeyinde çatışmalar yaşanmaktadır. Bu durum, önemli nüfus hareketlerine neden olmuştur."
+  },
   {
    "id": "6be1dd5e21f620a8",
    "title": "Est de la RDC: des attaques attribuées aux ADF font au moins 75 morts",
