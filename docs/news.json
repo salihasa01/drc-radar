@@ -1,6 +1,6 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-19T18:31:07.568742+00:00",
+ "generated_at": "2026-11-20T01:03:53.090171+00:00",
  "sources": [
   {
    "source": "BBC",
@@ -25,17 +25,17 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "source": "Reuters",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 99
   },
   {
    "source": "AP",
    "ok": true,
-   "count": 23
+   "count": 20
   }
  ],
  "items": [
@@ -740,48 +740,6 @@
     "kill"
    ],
    "title_tr": "Sivil toplum örgütü, IŞİD bağlantılı militanların Kongo'nun doğusundaki bir köye düzenlenen saldırıda en az 33 kişiyi öldürdüğünü açıkladı"
-  },
-  {
-   "id": "ab8f3d6d06a6edd6",
-   "title": "British healthcare worker with Ebola to be evacuated from Congo to UK, document shows",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcWlPc0VXTnppeWJBWUNQLUY3d0NoWXdJVjJwd0djQ1doZE5qOGFKNWdSVUFHTTdsR2ZkbC1hY2hyLS1ZZnZETlg2M0J3d3lPeDRocGJRLTgwTXdaTHpoR2VrcjZqYkFjLVZmU3BGNmhKZjNnLTlTWjVRU0xlNFdrZWJjRUYzR1pjQTNOVEdrSGRuNDU2RGRpNjc1U0JDNExjTE1hZFFwQUMxM0hJSWg3Z09ZYnZXV1BDeGdaVnE4TENDZnpqdFRLQnQ0QzVTRW50SFB0blRwWXVNTXF1ZkE?oc=5",
-   "source": "Reuters",
-   "published": "2026-11-06T00:08:46+00:00",
-   "found": "2026-11-12T00:06:41.644124+00:00",
-   "priority": "high",
-   "tags": [
-    "ebola"
-   ],
-   "title_tr": "Belgelere göre Ebola'ya yakalanan İngiliz sağlık çalışanı Kongo'dan İngiltere'ye nakledilecek"
-  },
-  {
-   "id": "f72a6c56b66b1f78",
-   "title": "British doctor who tested positive for Ebola in Congo is evacuated to London hospital",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbFFvYUFnanJRZnVWSWx6X0l2TlpZOTl2bFEyMFJ2aV9wUlNJVlhocjBzN2JDYWlzYk1CbzRRY1lXei1helBJQ1pMbkRaVHFqeTBiT3BPRVFQY0cxWldnRjdVdFNFNm9xaUJTZlVDMnM2T0ZhbnBka0dpWDlycFFEeFR4Ti1JcEFsRVZrVUlvcmV1MXhjVG1pUE1WbU1ldU55NktIY3BBdw?oc=5",
-   "source": "AP",
-   "published": "2026-11-05T22:39:00+00:00",
-   "found": "2026-11-11T18:07:15.821923+00:00",
-   "priority": "high",
-   "tags": [
-    "ebola"
-   ],
-   "title_tr": "Kongo'da Ebola testi pozitif çıkan İngiliz doktor Londra'daki bir hastaneye nakledildi"
-  },
-  {
-   "id": "065053383dcf2827",
-   "title": "UK doctor with Ebola returns from Congo to London for treatment",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTDZXbHFZcURmNWNld3RGMjBhWG04cWMzR1pYRlFRcHJuZUNMdEFTd1Y4ZlhKZG5VWHJjU2cwazRkWFBEYjlER1FSMHhTYVNmNlU4blJ2QUdBVlJhYWtrS2NpX0NZVTgzeENYYjNlb0tPWlo2ZU9McUFmRjhuNzVBVDlSeGRHWkR3eldtNWJ6dWhJdm5nSmJLTTZ4Z25uVE9mcHpsMXVySHpiVXJ6VlFod1I2Q0pwOXVDS2ZpUGhmRWp0V0U?oc=5",
-   "source": "Reuters",
-   "published": "2026-11-05T21:52:36+00:00",
-   "found": "2026-11-11T18:07:15.415700+00:00",
-   "priority": "normal",
-   "tags": [
-    "ebola"
-   ],
-   "title_tr": "Ebola hastası İngiliz doktor tedavi için Kongo'dan Londra'ya döndü"
   }
  ]
 }
