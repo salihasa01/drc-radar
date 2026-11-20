@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-20T17:34:24.089814+00:00",
+ "generated_at": "2026-11-20T23:43:29.075641+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "source": "Al Jazeera",
@@ -35,10 +35,25 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 18
+   "count": 17
   }
  ],
  "items": [
+  {
+   "id": "03898296a05cce51",
+   "title": "Guinea bans Burkina Faso broadcaster, escalating diplomatic tensions",
+   "summary": "Tensions rise between Guinea and Burkina Faso after Conakry bans Burkinabe broadcaster RTB, amid a diplomatic dispute over gold miners and a caricature of President Mamadi Doumbouya. Meanwhile, fighting erupts between Congolese forces and the Rwanda-backed FRN group in eastern DR Congo, despite peace commitments. Finally, in Ethiopia, one entrepreneur is tackling period poverty by breaking menstru",
+   "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20261120-guinea-bans-burkina-faso-broadcaster-escalating-diplomatic-tensions",
+   "source": "France 24",
+   "published": "2026-11-20T21:53:35+00:00",
+   "found": "2026-11-20T23:43:24.613686+00:00",
+   "priority": "normal",
+   "tags": [
+    "fighting"
+   ],
+   "title_tr": "Gine'nin Burkina Faso televizyon kanalına getirdiği yasak diplomatik gerilimi tırmandırdı",
+   "summary_tr": "Altın madencileri ve Cumhurbaşkanı Mamadi Doumbouya'nın karikatürüyle ilgili diplomatik anlaşmazlık sürerken Konakri'nin Burkina Faso merkezli yayın kuruluşu RTB'yi yasaklamasının ardından Gine ile Burkina Faso arasındaki gerilim artıyor. Bu arada barış taahhütlerine rağmen Demokratik Kongo Cumhuriyeti'nin doğusunda Kongolu güçlerle Ruanda destekli FRN grubu arasında çatışmalar patlak veriyor. Son olarak Etiyopya'da bir girişimci, adet döneminde yaşanan yoksulluğu adet tabusunu kırarak ele alıyor."
+  },
   {
    "id": "2af8759a02dd219c",
    "title": "La RDC fustige l'accord entre le Rwanda et cinq pays de l'UE pour un projet de centre de migrants",
