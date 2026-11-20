@@ -1,6 +1,6 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-20T08:55:38.323045+00:00",
+ "generated_at": "2026-11-20T17:34:24.089814+00:00",
  "sources": [
   {
    "source": "BBC",
@@ -25,20 +25,50 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "source": "Reuters",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 100
   },
   {
    "source": "AP",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 18
   }
  ],
  "items": [
+  {
+   "id": "2af8759a02dd219c",
+   "title": "La RDC fustige l'accord entre le Rwanda et cinq pays de l'UE pour un projet de centre de migrants",
+   "summary": "Cinq pays européens, l’Allemagne, l’Autriche, le Danemark, la Grèce et les Pays-Bas, veulent ouvrir au Rwanda, en 2027, un premier « hub de retour » destiné à des personnes dont la demande d’asile a été rejetée et qui ne peuvent pas être renvoyées dans leur pays d’origine. L’annonce a eu lieu à Vienne la semaine précédente. Un « partenariat » qui a suscité de nombreuses réactions et qui a notammen",
+   "link": "https://www.rfi.fr/fr/afrique/20261120-la-rdc-fustige-l-accord-entre-le-rwanda-et-cinq-pays-de-l-ue-pour-un-projet-de-centre-de-migrants",
+   "source": "RFI (FR)",
+   "published": "2026-11-20T13:07:32+00:00",
+   "found": "2026-11-20T17:34:18.348018+00:00",
+   "priority": "normal",
+   "tags": [
+    "guerre"
+   ],
+   "title_tr": "DRC, Ruanda ile beş AB ülkesi arasında göçmen merkezi projesi için yapılan anlaşmayı kınadı",
+   "summary_tr": "Beş Avrupa ülkesi - Almanya, Avusturya, Danimarka, Yunanistan ve Hollanda - 2027 yılında Ruanda'da, sığınma talepleri reddedilen ve kendi ülkelerine geri gönderilemeyen kişiler için ilk \"geri dönüş merkezini\" açmak istiyor. Duyuru geçen hafta Viyana'da yapıldı. Çok sayıda tepki uyandıran ve özellikle de... bir \"ortaklık\""
+  },
+  {
+   "id": "27184a8939086ba6",
+   "title": "Scientists are learning more about the rare Ebola virus in Congo outbreak",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSlFDZ0t2LWZfOElkUERrS0d5RVdaVERpejI2Q2lYdTNIY0RLSHVqQTM2UFJGVVlYNm9veHRzVHYxRmRyVjVCWlJhRnlXQTRpOF9MYVZ2d180X0tZM09sZnVUbzFJalZBbmVmRjJaUkJrbHpJUjI3Y0cwUl9zTlNuSnhsdHByUXNkOVRxV2RwaEkwYzVBeHJRMXdGY3VIdkJGdXZHOEVONmdWVmFOX2hQSkdFT2J1SjZaUXpsTnZ2UmlOUzdEOEhjOWFLX2U3UjBCb2ZjeA?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-20T11:32:42+00:00",
+   "found": "2026-11-20T17:34:18.834711+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola",
+    "outbreak"
+   ],
+   "title_tr": "Bilim insanları Kongo'daki salgında görülen nadir Ebola virüsü hakkında daha fazla bilgi ediniyor"
+  },
   {
    "id": "082d4325c90a902d",
    "title": "Ebola en RDC: l'ONG NRC demande «une approche plus globale et inclusive» dans la riposte",
@@ -746,35 +776,6 @@
    ],
    "title_tr": "Demokratik Kongo Cumhuriyeti: Tshisekedi, Kabila ve muhalefet arasında diyalog mümkün mü?",
    "summary_tr": "Demokratik Kongo Cumhuriyeti'nde, doğudaki savaşın gölgesinde siyasi kriz derinleşiyor. C64 muhalefet koalisyonu, ulusal bir diyaloğu hazırlamak amacıyla Cumhurbaşkanı Félix Tshisekedi ve selefi Joseph Kabila ile görüşmek istemektedir. Ancak Kinşasa, eski devlet başkanının şu anda bir siyasi-askeri hareketi yönettiği Goma'da onunla görüşmeye gidecek muhalifleri kovuşturmakla tehdit ediyor."
-  },
-  {
-   "id": "a987c69732431715",
-   "title": "Islamist militants force Ebola patients to flee in deadly Congo raid",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjdvMzhsUExDa2lhS3Z4VmpOVlhEWldzTUN2SFhBZFpfVXEtZ0RnNW9mRGFfTnVMTnhKUEdGMGpSR1MyS3lGTTBINE92Zkl0S1AtSHdFaUFIQVZNTXczZW05LWtaUm5CUkZCRTFLbTF2WGZhbDRNYy1uOERxekdIOC1RSDBodVBDdlRIdnlubHN3d0pzMC1WbmU4MHV1aXF3Nm8tX1NCMUUtaUluNnRQUQ?oc=5",
-   "source": "Reuters",
-   "published": "2026-11-06T16:18:00+00:00",
-   "found": "2026-11-11T18:07:15.415062+00:00",
-   "priority": "normal",
-   "tags": [
-    "ebola"
-   ],
-   "title_tr": "İslamcı militanlar Ebola hastalarını ölümcül Kongo baskınında kaçmaya zorladı"
-  },
-  {
-   "id": "294ee57b6d3c91e8",
-   "title": "IS-linked militants kill at least 33 in eastern Congo village attack, civil society says",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYUJUVWZUU043bXhablo2WnA0X3pRRExzdW9pT2RXN3VSMkFjMEdOVGN6ZWJuLW93a0xxekNyYnFXZ29DUmUxVDh3YmxKMm5aMUNJZVZwZ1lzcDVGV2ltZUFuVHpzUUlsU2l5MlVnNHJoemludFZFRXRZRzhzZ0hub1R2eWhMc0RScjF6Mzd6cnJ0WWcwbjNKZTF0aXN3QQ?oc=5",
-   "source": "AP",
-   "published": "2026-11-06T13:09:00+00:00",
-   "found": "2026-11-11T18:07:15.821710+00:00",
-   "priority": "high",
-   "tags": [
-    "attack",
-    "kill"
-   ],
-   "title_tr": "Sivil toplum örgütü, IŞİD bağlantılı militanların Kongo'nun doğusundaki bir köye düzenlenen saldırıda en az 33 kişiyi öldürdüğünü açıkladı"
   }
  ]
 }
