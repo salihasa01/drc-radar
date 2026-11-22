@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-22T15:57:00.035543+00:00",
+ "generated_at": "2026-11-22T21:38:07.578104+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "source": "Al Jazeera",
@@ -25,7 +25,7 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "source": "Reuters",
@@ -778,37 +778,6 @@
    ],
    "title_tr": "Demokratik Kongo Cumhuriyeti: İsyancılar, cinsel şiddet mağdurlarının \"sağlık hizmetlerine erişimini engelliyor\"",
    "summary_tr": "Sınır Tanımayan Doktorlar, 9 Kasım Pazartesi günü Demokratik Kongo Cumhuriyeti'nin doğusunda, yakın zamanda adını FRN olarak değiştiren M23 grubu tarafından uygulanan ve cinsel şiddet mağdurlarının sağlık hizmetlerine erişimini engelleyerek muayene sayısında ani bir düşüşe neden olan önlemleri kınadı. DwC'nin doğusu otuz yılı aşkın bir süredir çatışmalarla parçalanmış durumda ve burada cinsel şiddet olayları yaşanmaktadır."
-  },
-  {
-   "id": "3eaf0f8247d49e9f",
-   "title": "Dialogue nationale en RD Congo : comment sortir de l'impasse ?",
-   "summary": "Alors que la guerre se poursuit dans l'Est, cinq grandes figures de l'opposition, réunies au sein de la coalition C64, veulent rencontrer Félix Tshisekedi et Joseph Kabila pour préparer un dialogue national. Mais le pouvoir menace de poursuites ceux qui rencontreraient l'ancien président à Goma. Peut-on encore réunir les acteurs de cette crise autour d'une même table ? Et que devient l'avenir démo",
-   "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261108-dialogue-nationale-en-rd-congo-comment-sortir-de-l-impasse",
-   "source": "France 24 (FR)",
-   "published": "2026-11-08T21:37:48+00:00",
-   "found": "2026-11-11T18:07:14.573084+00:00",
-   "priority": "normal",
-   "tags": [
-    "guerre"
-   ],
-   "title_tr": "Demokratik Kongo Cumhuriyeti'nde Ulusal Diyalog: Çıkmazdan nasıl çıkılır?",
-   "summary_tr": "Doğuda savaş devam ederken, C64 koalisyonu çatısı altında bir araya gelen muhalefetin beş önde gelen ismi, ulusal bir diyaloğu hazırlamak amacıyla Félix Tshisekedi ve Joseph Kabila ile görüşmek istemektedir. Ancak iktidar, eski cumhurbaşkanıyla Goma'da görüşecek olanları kovuşturmakla tehdit ediyor. Bu krizin taraflarını hâlâ aynı masada bir araya getirmek mümkün mü? Peki ya demokratik gelecek ne olacak?"
-  },
-  {
-   "id": "fcd29b63062ddd32",
-   "title": "RD Congo : dialogue impossible entre Tshisekedi, Kabila et l'opposition ?",
-   "summary": "En République démocratique du Congo, la crise politique s'intensifie sur fond de guerre dans l'Est. La coalition d'opposition C64 souhaite rencontrer le président Félix Tshisekedi et son prédécesseur Joseph Kabila pour préparer un dialogue national. Mais Kinshasa menace de poursuites les opposants qui iraient rencontrer l'ancien chef de l'État à Goma, où il dirige désormais un mouvement politico-m",
-   "link": "https://www.france24.com/fr/vid%C3%A9o/20261108-rdc-dialogue-impossible-entre-tshisekedi-kabila-et-l-opposition",
-   "source": "France 24 (FR)",
-   "published": "2026-11-08T21:30:57+00:00",
-   "found": "2026-11-11T18:07:14.574556+00:00",
-   "priority": "normal",
-   "tags": [
-    "afc/m23",
-    "guerre"
-   ],
-   "title_tr": "Demokratik Kongo Cumhuriyeti: Tshisekedi, Kabila ve muhalefet arasında diyalog mümkün mü?",
-   "summary_tr": "Demokratik Kongo Cumhuriyeti'nde, doğudaki savaşın gölgesinde siyasi kriz derinleşiyor. C64 muhalefet koalisyonu, ulusal bir diyaloğu hazırlamak amacıyla Cumhurbaşkanı Félix Tshisekedi ve selefi Joseph Kabila ile görüşmek istemektedir. Ancak Kinşasa, eski devlet başkanının şu anda bir siyasi-askeri hareketi yönettiği Goma'da onunla görüşmeye gidecek muhalifleri kovuşturmakla tehdit ediyor."
   }
  ]
 }
