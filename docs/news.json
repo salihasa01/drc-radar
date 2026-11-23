@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-23T11:02:20.352580+00:00",
+ "generated_at": "2026-11-23T22:50:37.301507+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 27
+   "count": 29
   },
   {
    "source": "Al Jazeera",
@@ -25,20 +25,83 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "source": "Reuters",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 100
   },
   {
    "source": "AP",
    "ok": true,
-   "count": 14
+   "count": 13
   }
  ],
  "items": [
+  {
+   "id": "51e2bfb4c98dad04",
+   "title": "RDC: une équipe de riposte à Ebola évacuée en raison de l’insécurité au nord de Bunia",
+   "summary": "En République démocratique du Congo (RDC), le chef de l’Organisation mondiale de la santé (OMS) dénonce « l’insécurité dans l’est du pays qui freine la riposte à l’épidémie d’Ebola », des propos qui interviennent au lendemain d’un incident sécuritaire autour d’un hôpital, au nord de Bunia, dans l’Ituri, alors que le pays peine à enrayer l’épidémie dont le bilan est désormais de plus de 11 300 cas ",
+   "link": "https://www.rfi.fr/fr/afrique/20261123-rdc-une-%C3%A9quipe-de-riposte-%C3%A0-ebola-%C3%A9vacu%C3%A9e-en-raison-de-l-ins%C3%A9curit%C3%A9-au-nord-de-bunia",
+   "source": "RFI (FR)",
+   "published": "2026-11-23T21:23:41+00:00",
+   "found": "2026-11-23T22:50:26.482198+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola",
+    "insecurite"
+   ],
+   "title_tr": "KDC: Bunia'nın kuzeyindeki güvenlik sorunları nedeniyle bir Ebola müdahale ekibi tahliye edildi",
+   "summary_tr": "Demokratik Kongo Cumhuriyeti'nde (DKC), Dünya Sağlık Örgütü (DSÖ) Başkanı, \"ülkenin doğusundaki güvensizliğin Ebola salgınına karşı müdahaleyi engellediğini\" kınadı. Bu açıklamalar, ülkenin şu anda 11.300'den fazla vakaya ulaşan salgını kontrol altına almakta zorlandığı bir dönemde, Ituri'deki Bunia'nın kuzeyinde bir hastanenin çevresinde meydana gelen bir güvenlik olayının ertesi günü yapıldı."
+  },
+  {
+   "id": "217378ccdbefd514",
+   "title": "Que disent les images d'un avion Cessna militaire accidenté en RDC?",
+   "summary": "En RDC, l'armée a reconnu hier soir dans un communiqué la perte d'un avion-cargo. L'état-major impute la disparition de l'appareil aux mauvaises conditions météos. L'avion volait entre Béni au Nord-Kivu et Kalemie dans la province du Tanganyika. L'armée affirme qu'elle est en train de chercher l'appareil qui n'a pas encore été localisé. Ce communiqué est diffusé alors que depuis dimanche, sur les ",
+   "link": "https://www.rfi.fr/fr/afrique/20261123-que-disent-les-images-d-un-avion-cessna-militaire-accident%C3%A9-en-rdc",
+   "source": "RFI (FR)",
+   "published": "2026-11-23T18:13:19+00:00",
+   "found": "2026-11-23T22:50:26.479909+00:00",
+   "priority": "normal",
+   "tags": [
+    "armee"
+   ],
+   "title_tr": "Kongo Demokratik Cumhuriyeti'nde (KDC) düşen bir Cessna askeri uçağının görüntüleri ne anlatıyor?",
+   "summary_tr": "DKC'de ordu dün akşam yaptığı açıklamada bir kargo uçağının kaybolduğunu doğruladı. Genelkurmay, uçağın kaybolmasını kötü hava koşullarına bağlıyor. Uçak, Kuzey Kivu'daki Beni ile Tanganyika eyaletindeki Kalemie arasında uçuyordu. Ordu, henüz yeri tespit edilemeyen uçağı aradığını belirtiyor. Bu açıklama, pazar gününden bu yana"
+  },
+  {
+   "id": "ef9f53d4bfc551de",
+   "title": "RDC: la police disperse une manifestation de l'Église catholique à Lubumbashi",
+   "summary": "Dans le sud-est de la République démocratique du Congo (RDC), l'État montre ses biceps à l'Église catholique à Lubumbashi. Les forces de sécurité ont dispersé à coups de gaz lacrymogènes une manifestation d'évêques et de fidèles qui réclament l'exécution d’un jugement en faveur de l'Église dans le dossier de spoliation d'une partie de la concession du Grand séminaire interdiocésain Saint-Paul de L",
+   "link": "https://www.rfi.fr/fr/afrique/20261123-rdc-la-police-disperse-une-manifestation-de-l-%C3%A9glise-catholique-%C3%A0-lubumbashi",
+   "source": "RFI (FR)",
+   "published": "2026-11-23T14:39:52+00:00",
+   "found": "2026-11-23T22:50:26.476523+00:00",
+   "priority": "normal",
+   "tags": [
+    "police",
+    "securite"
+   ],
+   "title_tr": "DRC: Polis, Lubumbashi'deki Katolik Kilisesi gösterisini dağıttı",
+   "summary_tr": "Demokratik Kongo Cumhuriyeti'nin (DKC) güneydoğusunda, Devlet Lubumbashi'deki Katolik Kilisesi'ne gücünü gösteriyor. Güvenlik güçleri, Saint-Paul de Lubumbashi Büyük İnterdiyosyal Seminerinin arazisinin bir kısmının gasp edilmesi davasında Kilise lehine verilen bir kararın uygulanmasını talep eden piskoposların ve cemaatin düzenlediği gösteriyi göz yaşartıcı gazla dağıttı."
+  },
+  {
+   "id": "9379ce3c5171b48a",
+   "title": "The missing deaths of Congo’s Ebola outbreak",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HMnAzMW85TERRNmc4RHlMUy1kYzB4VmlLWVJZRG5ZSm1ZNWhUNmpSZmMzc25vcXRrUjJHdGYzTGpsMDBvb1RZcFNlMHNJd2kwS2JwUWVMekZtTVR3WVNtYnBhQ2pROWM?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-23T09:24:09+00:00",
+   "found": "2026-11-23T22:50:27.014297+00:00",
+   "priority": "high",
+   "tags": [
+    "deaths",
+    "ebola",
+    "outbreak"
+   ],
+   "title_tr": "Kongo'daki Ebola salgınında kayıp ölümler"
+  },
   {
    "id": "54734068fa7cdbc2",
    "title": "RDC: le secrétaire général par intérim du parti présidentiel UDPS appelle au retour de la paix à Uvira",
