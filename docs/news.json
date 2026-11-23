@@ -1,6 +1,6 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-22T21:38:07.578104+00:00",
+ "generated_at": "2026-11-23T02:17:01.369078+00:00",
  "sources": [
   {
    "source": "BBC",
@@ -25,7 +25,7 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 23
+   "count": 25
   },
   {
    "source": "Reuters",
@@ -35,10 +35,42 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 15
+   "count": 14
   }
  ],
  "items": [
+  {
+   "id": "36634285571cad6e",
+   "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+   "summary": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
+   "link": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-23T00:39:51+00:00",
+   "found": "2026-11-23T02:16:56.077937+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola",
+    "fighting"
+   ],
+   "title_tr": "DSÖ başkanı, Ebola'nın vurduğu Demokratik Kongo Cumhuriyeti bölgesindeki şiddetli çatışmalar sırasında barış çağrısında bulundu",
+   "summary_tr": "DSÖ, Demokratik Kongo Cumhuriyeti'ndeki (DKC) bir hastanenin yakınında yaşanan çatışmaların Ebola ile mücadele çalışmalarını aksattığını ve hastaları ile çalışanları \"ciddi bir riske\" maruz bıraktığını bildiriyor."
+  },
+  {
+   "id": "78518b7dcf59bec4",
+   "title": "WHO chief says fighting near Congo Ebola outbreak area disrupts response efforts",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVnZjcE50YXJiLWxXZE5OQldXSndtUVlUbnNJckNPY1lQM1ZpdlExMlNJX08zNFJQbnFYd3FKT3ZZbzBqY2s4a3c0RVg0M2dELVZrLUx5R0tobENIQWk2QUdNZG9YRl95STZFUlVOVTlVcThuRG90VndEZEZhaE5jbTRVYkN1SUxoYmlteUhlempZSVNGRjJNWjhZdXlSNzMtM1Q3VExpZmFqZHJKbVdjT3lpekdsb0dXQXg0NHdsUkZwdlNzQW9CaGVhblM2b0VHSWRZTGlFVUJBSnd3LXA2SXJoUlVmV1E?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-22T20:17:43+00:00",
+   "found": "2026-11-23T02:16:57.027616+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola",
+    "fighting",
+    "outbreak"
+   ],
+   "title_tr": "DSÖ başkanı, Kongo'daki Ebola salgını bölgesinin yakınında yaşanan çatışmaların müdahale çalışmalarını aksattığını söylüyor"
+  },
   {
    "id": "ea2e50d897b89bfc",
    "title": "RDC: les combats entre l'armée et le FRN provoquent de nouveaux déplacements de population dans le Sud-Kivu",
