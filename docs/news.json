@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-23T22:50:37.301507+00:00",
+ "generated_at": "2026-11-24T06:47:14.947987+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "source": "Al Jazeera",
@@ -35,10 +35,25 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 13
+   "count": 9
   }
  ],
  "items": [
+  {
+   "id": "1fbaa96efc8328c7",
+   "title": "RDC: pourquoi les tensions s'accentuent entre l'Église catholique et le pouvoir",
+   "summary": "En République démocratique du Congo (RDC), deux incidents ont opposé, en l'espace de deux jours, les forces de l'ordre aux responsables de l'Église catholique. Dimanche 22 novembre à Kinshasa, le cardinal Fridolin Ambongo a été contraint de délocaliser une messe. Le lendemain, à Lubumbashi, la police a dispersé une manifestation de l'Église. Deux événements qui interviennent dans un contexte de re",
+   "link": "https://www.rfi.fr/fr/afrique/20261124-rdc-pourquoi-les-tensions-s-accentuent-entre-l-%C3%A9glise-catholique-et-le-pouvoir",
+   "source": "RFI (FR)",
+   "published": "2026-11-24T03:30:20+00:00",
+   "found": "2026-11-24T06:47:09.597700+00:00",
+   "priority": "normal",
+   "tags": [
+    "police"
+   ],
+   "title_tr": "Demokratik Kongo Cumhuriyeti: Katolik Kilisesi ile iktidar arasındaki gerilim neden artıyor?",
+   "summary_tr": "Demokratik Kongo Cumhuriyeti'nde (DKC) iki gün içinde meydana gelen iki olayda, güvenlik güçleri ile Katolik Kilisesi yetkilileri karşı karşıya geldi. 22 Kasım Pazar günü Kinşasa'da Kardinal Fridolin Ambongo bir ayini başka bir yere taşımak zorunda kaldı. Ertesi gün Lubumbashi'de polis, Kilise'nin düzenlediği bir gösteriyi dağıttı. Bu iki olay, ... bağlamında gerçekleşiyor."
+  },
   {
    "id": "51e2bfb4c98dad04",
    "title": "RDC: une équipe de riposte à Ebola évacuée en raison de l’insécurité au nord de Bunia",
