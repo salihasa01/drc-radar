@@ -1,6 +1,6 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-24T06:47:14.947987+00:00",
+ "generated_at": "2026-11-24T18:40:19.211919+00:00",
  "sources": [
   {
    "source": "BBC",
@@ -25,7 +25,7 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "source": "Reuters",
@@ -35,10 +35,55 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 9
+   "count": 11
   }
  ],
  "items": [
+  {
+   "id": "6c20825f61f35633",
+   "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+   "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+   "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "published": "2026-11-24T16:31:26+00:00",
+   "found": "2026-11-24T18:40:09.303366+00:00",
+   "priority": "normal",
+   "tags": [
+    "military",
+    "rebels"
+   ],
+   "title_tr": "Asiler uçağı düşürdüklerini iddia ederken Demokratik Kongo Cumhuriyeti askeri uçağın kayıp olduğunu söylüyor",
+   "summary_tr": "Düşürülen uçakta bulunanlar arasında bir Güney Afrikalı savaş pilotu ve bir Ugandalı subayın da olduğu bildiriliyor."
+  },
+  {
+   "id": "22310aa77cb640bf",
+   "title": "Ebola en RDC: «Le nombre de décès excédentaires était sept fois plus élevé que le nombre de décès officiels» mi-2026 à Bunia",
+   "summary": "En République démocratique du Congo, l'épidémie d'Ebola aurait fait beaucoup plus de victimes que ne le reconnaissent les chiffres officiels. C'est ce que révèle une enquête de l'agence de presse Reuters, fondée notamment sur l'analyse d'images satellites de plusieurs cimetières de l'Ituri, province de l'Est du pays où cette épidémie a commencé. Clément Bonnerot, l'un des auteurs de cette enquête,",
+   "link": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique-midi/20261124-ebola-en-rdc-le-nombre-de-d%C3%A9c%C3%A8s-exc%C3%A9dentaires-%C3%A9tait-sept-fois-plus-%C3%A9lev%C3%A9-que-le-nombre-de-d%C3%A9c%C3%A8s-officiels-mi-2026-%C3%A0-bunia",
+   "source": "RFI (FR)",
+   "published": "2026-11-24T15:12:52+00:00",
+   "found": "2026-11-24T18:40:09.981835+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola"
+   ],
+   "title_tr": "KDC'de Ebola: \"Fazla ölüm sayısı, 2026 yılının ortasında Bunia'da resmi ölüm sayısından yedi kat daha fazlaydı\"",
+   "summary_tr": "Demokratik Kongo Cumhuriyeti'nde Ebola salgınının resmi rakamların gösterdiğinden çok daha fazla kurbana yol açtığı söyleniyor. Bu, özellikle salgının başladığı ülkenin doğusundaki Ituri eyaletinde bulunan birçok mezarlığın uydu görüntülerinin analizine dayanan bir Reuters haber ajansı araştırmasında ortaya konmuştur. Bu araştırmanın yazarlarından biri olan Clément Bonnerot,"
+  },
+  {
+   "id": "fdab7e08a4b23c0b",
+   "title": "Global vaccine group aims to buy 1.5 million doses of new Ebola Bundibugyo shot for Congo",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTi1aWEc4NWZDc1BNNzZNM3ZQbXh1ZlJYVXRsUEpRby1YWDJNZFBib0RMRjM4WWVnT3RFNUxqX2NZWDBjcHYzdHFaQ3ZOajd0MFlPMkdPQWtWbjRjQ0lMVzlUNmxvMk94dTQzbzhqN0FvTkJpcXZiOXZ1UlFCdUhKU2x3RTFtRnlpSlZaTi12Um5oS0t4V2V4eEFUNWFubmVHTWQ5RXpITDgtRUI2U0JfNWlNck8yOXZSVjNNam5PUHMwRC1ZVER0aFM2Zm95WllUdElxaVIwcnA3Q2RMbEtBRDhQYzU?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-24T13:03:51+00:00",
+   "found": "2026-11-24T18:40:10.438766+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola"
+   ],
+   "title_tr": "Küresel aşı grubu, Kongo için 1,5 milyon doz yeni Ebola Bundibugyo aşısı satın almayı hedefliyor"
+  },
   {
    "id": "1fbaa96efc8328c7",
    "title": "RDC: pourquoi les tensions s'accentuent entre l'Église catholique et le pouvoir",
@@ -872,37 +917,6 @@
     "ebola"
    ],
    "title_tr": "Hükümet verileri, Kongo'daki Ebola vakalarının sayısının 11 bini aştığını gösteriyor"
-  },
-  {
-   "id": "122a939ace2853e1",
-   "title": "Meet the Congolese coders using AI to save school records from war",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKbnY1NHNtbU1PMnRZR25oQjZJTnBvNmpySjBpOU1LUFMtUS1DOWlOSVFiQ01hVkt2MWFqaFkxOG1iU2Myakw4WUdYTnJIbGFwc04zOTJlbng3U1NwVW1WVmtBeHhDRXc?oc=5",
-   "source": "Reuters",
-   "published": "2026-11-10T13:42:38+00:00",
-   "found": "2026-11-11T18:07:15.428428+00:00",
-   "priority": "normal",
-   "tags": [
-    "war"
-   ],
-   "title_tr": "Okul kayıtlarını savaştan kurtarmak için yapay zekâ kullanan Kongolu kodlayıcılarla tanışın"
-  },
-  {
-   "id": "135ba30680589b3d",
-   "title": "RD Congo : les rebelles \"empêchent l'accès aux soins\" pour les victimes de violences sexuelles",
-   "summary": "Médecins sans frontières a dénoncé lundi 9 novembres des mesures mises en place dans l'est de la République démocratique du Congo par le groupe M23, récemment rebaptisé FRN, qui ont entravé l'accès aux soins pour les victimes de violences sexuelles et provoqué une chute brutale des consultations. L'Est de la RDC est déchiré par des conflits depuis plus de trente ans et les violences sexuelles y so",
-   "link": "https://www.france24.com/fr/vid%C3%A9o/20261110-rd-congo-les-rebelles-emp%C3%AAchent-l-acc%C3%A8s-aux-soins-pour-les-victimes-de-violences-sexuelles",
-   "source": "France 24 (FR)",
-   "published": "2026-11-10T11:41:59+00:00",
-   "found": "2026-11-11T18:07:14.566786+00:00",
-   "priority": "normal",
-   "tags": [
-    "m23",
-    "rebelles",
-    "violences"
-   ],
-   "title_tr": "Demokratik Kongo Cumhuriyeti: İsyancılar, cinsel şiddet mağdurlarının \"sağlık hizmetlerine erişimini engelliyor\"",
-   "summary_tr": "Sınır Tanımayan Doktorlar, 9 Kasım Pazartesi günü Demokratik Kongo Cumhuriyeti'nin doğusunda, yakın zamanda adını FRN olarak değiştiren M23 grubu tarafından uygulanan ve cinsel şiddet mağdurlarının sağlık hizmetlerine erişimini engelleyerek muayene sayısında ani bir düşüşe neden olan önlemleri kınadı. DwC'nin doğusu otuz yılı aşkın bir süredir çatışmalarla parçalanmış durumda ve burada cinsel şiddet olayları yaşanmaktadır."
   }
  ]
 }
