@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-25T12:18:04.468797+00:00",
+ "generated_at": "2026-11-25T21:55:19.895358+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "source": "Al Jazeera",
@@ -25,7 +25,7 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "source": "Reuters",
@@ -35,10 +35,74 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 23
+   "count": 100
   }
  ],
  "items": [
+  {
+   "id": "5635a7748e027764",
+   "title": "Cape Town court shuts down Ramaphosa's Farmgate scandal",
+   "summary": "In tonight's edition, South Africa's president sidesteps an impeachment bid by the opposition. Also, we hear from some of the Malagasy women fighting for an overhaul of reproductive rights in their country. And in eastern Democratic Republic of Congo, the CRP rebel group halts its advance after coming within dozens of kilometers of the northeastern city of Bunia.",
+   "link": "https://www.france24.com/en/cape-town-court-shuts-down-ramaphosa-s-farmgate-scandal",
+   "source": "France 24",
+   "published": "2026-11-25T21:41:01+00:00",
+   "found": "2026-11-25T21:55:06.690492+00:00",
+   "priority": "normal",
+   "tags": [
+    "fighting",
+    "rebel"
+   ],
+   "title_tr": "Cape Town mahkemesi Ramaphosa'nın Farmgate skandalını kapattı",
+   "summary_tr": "Bu akşamki bölümde Güney Afrika Cumhurbaşkanı, muhalefetin azil girişiminden kurtuluyor. Ayrıca, ülkelerindeki üreme haklarının kapsamlı bir şekilde yeniden düzenlenmesi için mücadele eden Madagaskarlı kadınlardan bazılarını dinliyoruz. Ayrıca Demokratik Kongo Cumhuriyeti'nin doğusunda CRP isyancı grubu, kuzeydoğudaki Bunia şehrine onlarca kilometre yaklaştıktan sonra ilerlemesini durduruyor."
+  },
+  {
+   "id": "45721ddfd33f67e3",
+   "title": "Ebola en RDC : la méfiance des populations entrave la riposte dans l'Est du pays",
+   "summary": "🇨🇩 En RDC, la méfiance des populations complique la lutte contre Ebola, qui sévit depuis six mois. Dans l’Est du pays, les humanitaires font face à des agressions et à des résistances, notamment lors des enterrements.",
+   "link": "https://www.france24.com/fr/vid%C3%A9o/20261125-ebola-en-rdc-la-m%C3%A9fiance-des-populations-entrave-la-riposte-dans-l-est-du-pays",
+   "source": "France 24 (FR)",
+   "published": "2026-11-25T21:21:01+00:00",
+   "found": "2026-11-25T21:55:06.801077+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola"
+   ],
+   "title_tr": "KDC'de Ebola: Halkın güvensizliği, ülkenin doğusundaki müdahaleyi engelliyor",
+   "summary_tr": "🇨🇩 Demokratik Kongo Cumhuriyeti'nde (DKC), halkın güvensizliği, altı aydır devam eden Ebola ile mücadeleyi zorlaştırıyor. Ülkenin doğusunda, insani yardım görevlileri özellikle cenazelerde saldırılara ve direnişlere maruz kalmaktadır."
+  },
+  {
+   "id": "ccbc5b082783d5af",
+   "title": "Fighting in eastern Congo forces Ebola workers to evacuate, threatening outbreak response",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRDFtT0M3ampBX21sZVc4a0VHSDhwMjcwdm16S2ltOE1SUnBEN29UbmhFQVg2d0U0cmVLTVdrU3k5TS15eWNsUGZKekFqYWFUdGlkTlpWTG93ZHlEUE5CRkJYV2ZfU3lQcUpYcEpiT2g2MXN1OHJWSzhPNWdsX2hwbHJPQVlvQm41UFBNZE5ES1N1d1FMZEkybDJ0ZVp0cHRpSWVibA?oc=5",
+   "source": "AP",
+   "published": "2026-11-25T19:29:00+00:00",
+   "found": "2026-11-25T21:55:08.941704+00:00",
+   "priority": "high",
+   "tags": [
+    "ebola",
+    "fighting",
+    "outbreak"
+   ],
+   "title_tr": "Doğu Kongo'daki çatışmalar Ebola çalışanlarını tahliyeye zorluyor, salgına müdahaleyi tehdit ediyor"
+  },
+  {
+   "id": "d6a556c7a1a7bf2e",
+   "title": "Ebola : soigner en zone de guerre",
+   "summary": "C'est la difficile mission des humanitaires déployés dans l'est de la République Démocratique du Congo. Des médecins ont du se réfugier pendant 3 jours dans un hôpital de l'Ituri pour échapper à de violents combats. Une situation que connait bien les équipes de Médecins sans frontières déployées depuis 30 ans dans cette région. Stephanie Hoffmann de MSF est notre invitée.",
+   "link": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20261125-ebola-soigner-en-zone-de-guerre",
+   "source": "France 24 (FR)",
+   "published": "2026-11-25T16:37:32+00:00",
+   "found": "2026-11-25T21:55:06.803678+00:00",
+   "priority": "normal",
+   "tags": [
+    "combats",
+    "ebola",
+    "guerre"
+   ],
+   "title_tr": "Ebola: Savaş bölgesinde tedavi",
+   "summary_tr": "Bu, Demokratik Kongo Cumhuriyeti'nin doğusunda görev yapan insani yardım görevlilerinin zorlu görevidir. Doktorlar, şiddetli çatışmalardan kaçmak için 3 gün boyunca Ituri'deki bir hastaneye sığınmak zorunda kaldı. Bu bölgede 30 yıldır görev yapan Sınır Tanımayan Doktorlar ekiplerinin çok iyi bildiği bir durum. Konuğumuz Sınır Tanımayan Doktorlar'dan Stephanie Hoffmann."
+  },
   {
    "id": "e2ff27f3bb211546",
    "title": "Ebola burial teams struggle to keep pace with deaths in eastern Congo",
@@ -875,53 +939,6 @@
     "outbreak"
    ],
    "title_tr": "MSF, Kongo'daki Ebola salgınının altı ay sonra hâlâ kontrol altına alınamadığını söylüyor"
-  },
-  {
-   "id": "20ad8267c508feb2",
-   "title": "Tshisekedi paves way for constitutional change",
-   "summary": "In tonight's edition, A new law expanding the conditions for a constitutional referendum has ignited political tensions in the DRC. Also, Kenya has officially declared the end of its latest Ebola outbreak. And at COP31, environmental advocates are warning against waste incineration, arguing that it risks locking African cities into expensive and polluting infrastructure.",
-   "link": "https://www.france24.com/en/tshisekedi-paves-way-for-constitutional-change",
-   "source": "France 24",
-   "published": "2026-11-11T21:39:46+00:00",
-   "found": "2026-11-12T00:06:40.818937+00:00",
-   "priority": "normal",
-   "tags": [
-    "ebola",
-    "outbreak"
-   ],
-   "title_tr": "Tshisekedi anayasa değişikliğinin önünü açıyor",
-   "summary_tr": "Bu akşamki bölümde, anayasa referandumu koşullarını genişleten yeni bir yasa Demokratik Kongo Cumhuriyeti'nde siyasi gerilime yol açtı. Ayrıca Kenya, son Ebola salgınının sona erdiğini resmen ilan etti. Ayrıca COP31'de çevre savunucuları, Afrika kentlerini pahalı ve kirletici altyapılara mahkûm etme riski taşıdığı gerekçesiyle atık yakma uygulamalarına karşı uyarıda bulunuyor."
-  },
-  {
-   "id": "7af999f7b9d111cf",
-   "title": "Islamic State group-affiliated rebels kill at least 22 in Congo’s eastern region",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZG1waG1xOHJUdGpBcUdNUXNmSUJ6bUctdFFZMmw4OVhPUmdUTzdSMVJWOFJ1N1dLWDVVcVh6MDY5VlRmT2tZSFJIWFZrU1E2RmxtV1JRaDE0Q3dJcEVtMHUza3Z2d1Bla3FMcWZqeUgxRjBZQ1pEODhzUHVHZHA0aFBSZXdlWElQU1JxbVE3cEtYS01Nel9XbUNxbGwwYXVVQVlCUHA4YTIyS0RjVTVPMQ?oc=5",
-   "source": "AP",
-   "published": "2026-11-11T16:52:00+00:00",
-   "found": "2026-11-11T18:07:15.823679+00:00",
-   "priority": "normal",
-   "tags": [
-    "kill",
-    "rebels"
-   ],
-   "title_tr": "IŞİD bağlantılı isyancılar Kongo'nun doğu bölgesinde en az 22 kişiyi öldürdü"
-  },
-  {
-   "id": "4e5d09f328bf2446",
-   "title": "RDC : \"C’est Kagame le véritable chef\" des rebelles, pas Kabila, selon la cheffe de la diplomatie",
-   "summary": "Dans un entretien accordé à France 24, la ministre des Affaires étrangères congolaise, Thérèse Kayikwamba Wagner, voit en Paul Kagame, président rwandais, “le véritable chef” du front rebelle de l'ex-chef d'État Joseph Kabila. Elle dénonce une présence \"accrue\" des forces armées rwandaises et nie toute collusion d’État avec la milice hutue des Forces démocratiques de libération du Rwanda.",
-   "link": "https://www.france24.com/fr/%C3%A9missions/en-t%C3%AAte-%C3%A0-t%C3%AAte/20261111-exclusif-rdc-entretien-ministre-affaires-etrangeres-paul-kagame-v%C3%A9ritable-chef-des-rebelles-kabila-frn-fdlr",
-   "source": "France 24 (FR)",
-   "published": "2026-11-11T15:06:10+00:00",
-   "found": "2026-11-11T18:07:14.559934+00:00",
-   "priority": "normal",
-   "tags": [
-    "milice",
-    "rebelles"
-   ],
-   "title_tr": "KDC: Dışişleri Bakanı'na göre isyancıların gerçek lideri Kabila değil, Kagame'dir.",
-   "summary_tr": "Kongo Dışişleri Bakanı Thérèse Kayikwamba Wagner, France 24'e verdiği bir röportajda, Ruanda Cumhurbaşkanı Paul Kagame'yi eski Devlet Başkanı Joseph Kabila'nın asi cephesinin \"gerçek lideri\" olarak görüyor. Ruanda silahlı kuvvetlerinin \"arttığı\" yönünde eleştiride bulunuyor ve devletin Ruanda Demokratik Kurtuluş Güçleri'nin Hutu milisleriyle herhangi bir işbirliği içinde olduğunu reddediyor."
   }
  ]
 }
