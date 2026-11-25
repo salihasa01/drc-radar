@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-25T02:56:25.331667+00:00",
+ "generated_at": "2026-11-25T12:18:04.468797+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "source": "Al Jazeera",
@@ -25,7 +25,7 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "source": "Reuters",
@@ -35,10 +35,58 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 13
+   "count": 23
   }
  ],
  "items": [
+  {
+   "id": "e2ff27f3bb211546",
+   "title": "Ebola burial teams struggle to keep pace with deaths in eastern Congo",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaFN5SDVOVU9CQWVZUXN2ZUlnZ3Z4WkRxV040YmRRaVJxakRzSEMwODdJSDdqQzV2eHYyLUswOWpLY1U2TWQ0UC0wNUliRkhEZlA4ZGo3M3VxaUJlNDB5SHBEREtWajNRejdlem5teDcteWRJamJwSDNWMnVxNDJNbDZaQjhiVC1nWXlUQy1KTUZ0M1dYYWgxTGc1YXNvU3lXN2ItdDExb09XZzJCdjBjQU5WT2Z1TUhHTFBXODVHNUNiTS02cmc?oc=5",
+   "source": "AP",
+   "published": "2026-11-25T06:05:00+00:00",
+   "found": "2026-11-25T12:17:53.650628+00:00",
+   "priority": "high",
+   "tags": [
+    "deaths",
+    "ebola"
+   ],
+   "title_tr": "Ebola cenaze ekipleri, Kongo'nun doğusunda ölümlerin hızına yetişmekte zorlanıyor"
+  },
+  {
+   "id": "9bd3fae4021d23df",
+   "title": "RDC: le gouvernement s'explique auprès du Vatican après les incidents visant l'Église catholique",
+   "summary": "En République démocratique du Congo (RDC), le gouvernement clarifie auprès du Vatican les incidents survenus dimanche à Kinshasa et lundi à Lubumbashi, qui ont ravivé les tensions entre le pouvoir et l'Église catholique. Le vice-Premier ministre chargé de l'Intérieur et de la Sécurité, Jacquemain Shabani, a été reçu mardi 24 novembre par le nonce apostolique à Kinshasa. Il regrette ces incidents, ",
+   "link": "https://www.rfi.fr/fr/afrique/20261125-rdc-le-gouvernement-s-explique-aupr%C3%A8s-du-vatican-apr%C3%A8s-les-incidents-visant-l-%C3%A9glise-catholique",
+   "source": "RFI (FR)",
+   "published": "2026-11-25T03:10:26+00:00",
+   "found": "2026-11-25T12:17:52.793321+00:00",
+   "priority": "normal",
+   "tags": [
+    "securite"
+   ],
+   "title_tr": "KDC: Hükûmet, Katolik Kilisesi'ni hedef alan olayların ardından Vatikan'a açıklama yaptı",
+   "summary_tr": "Demokratik Kongo Cumhuriyeti'nde (DKC) hükümet, Pazar günü Kinşasa'da ve Pazartesi günü Lubumbashi'de meydana gelen ve iktidar ile Katolik Kilisesi arasındaki gerilimi yeniden alevlendiren olayları Vatikan'a açıklıyor. İçişleri ve Güvenlikten sorumlu Başbakan Yardımcısı Jacquemain Shabani, 24 Kasım Salı günü Kinşasa'da Papalık Elçisi tarafından kabul edildi. Bu olaylardan duyduğu üzüntüyü dile getirdi."
+  },
+  {
+   "id": "a6bcfc6b3dfcf82e",
+   "title": "RDC: la reprise des combats en Ituri fait craindre une nouvelle propagation d'Ebola",
+   "summary": "En République démocratique du Congo (RDC), la situation sécuritaire s’est fortement dégradée ces derniers jours dans la province de l’Ituri. Depuis une semaine, des affrontements au nord de Bunia opposent l’armée congolaise à la Convention pour la révolution populaire (CRP), le groupe armé de l’ancien chef de guerre Thomas Lubanga, condamné pour crimes de guerre par la Cour pénale internationale (",
+   "link": "https://www.rfi.fr/fr/afrique/20261125-rdc-la-reprise-des-combats-en-ituri-fait-craindre-une-nouvelle-propagation-d-ebola",
+   "source": "RFI (FR)",
+   "published": "2026-11-25T03:05:32+00:00",
+   "found": "2026-11-25T12:17:52.804904+00:00",
+   "priority": "normal",
+   "tags": [
+    "affrontements",
+    "armee",
+    "combats",
+    "ebola"
+   ],
+   "title_tr": "Kongo Demokratik Cumhuriyeti: Ituri'de çatışmaların yeniden başlaması, Ebola'nın yeniden yayılacağı korkusuna yol açıyor",
+   "summary_tr": "Demokratik Kongo Cumhuriyeti'nde (DKC) son günlerde Ituri eyaletindeki güvenlik durumu ciddi şekilde kötüleşmiştir. Bir haftadır Bunia'nın kuzeyinde, Kongo ordusu ile eski savaş ağası Thomas Lubanga'nın silahlı grubu olan Halk Devrimi Konvansiyonu (CRP) arasında çatışmalar yaşanmaktadır. Thomas Lubanga, Uluslararası Ceza Mahkemesi tarafından savaş suçlarından mahkûm edilmiştir ("
+  },
   {
    "id": "ffd99e93193af240",
    "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
@@ -874,51 +922,6 @@
    ],
    "title_tr": "KDC: Dışişleri Bakanı'na göre isyancıların gerçek lideri Kabila değil, Kagame'dir.",
    "summary_tr": "Kongo Dışişleri Bakanı Thérèse Kayikwamba Wagner, France 24'e verdiği bir röportajda, Ruanda Cumhurbaşkanı Paul Kagame'yi eski Devlet Başkanı Joseph Kabila'nın asi cephesinin \"gerçek lideri\" olarak görüyor. Ruanda silahlı kuvvetlerinin \"arttığı\" yönünde eleştiride bulunuyor ve devletin Ruanda Demokratik Kurtuluş Güçleri'nin Hutu milisleriyle herhangi bir işbirliği içinde olduğunu reddediyor."
-  },
-  {
-   "id": "a3810ebf5b5a8bcd",
-   "title": "Ebola tops 11,000 cases in Congo’s deadliest outbreak",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2xZQ19zQXZleUxGQlZ5WWRFcFJUSGI2ZVJ0MnJPU2RfZ0l6REFwbWFWVm5RdFQxYnRKd2Zsb0FmNDlhYWdQSlV2ZFhiNmx6RzdsZUZLVWJ5cFdBb0xIVWEydTlRSmg1cUthejlNQ2JzQUYwQk9EcVFodXdtMURQOHZmVHM2RW8?oc=5",
-   "source": "AP",
-   "published": "2026-11-11T11:41:00+00:00",
-   "found": "2026-11-11T18:07:15.821483+00:00",
-   "priority": "normal",
-   "tags": [
-    "ebola",
-    "outbreak"
-   ],
-   "title_tr": "Kongo'daki en ölümcül salgında Ebola vakaları 11 bini aştı"
-  },
-  {
-   "id": "a4a4e774071faefe",
-   "title": "Conflit RDC/Rwanda et contestation en interne: une élection sous tension à l’OIF",
-   "summary": "Le 16 novembre, les chefs d’États et gouvernements de l'Organisation internationale de la Francophonie (OIF) pourraient élire au Cambodge leur secrétaire général par un vote, une première. Entre rivalité RDC-Rwanda, guerre d'influence et critiques en interne sur le bilan de la sortante, rarement la course aura été aussi serrée.",
-   "link": "https://www.rfi.fr/fr/asie-pacifique/20261111-oif-conflit-rdc-rwanda-contestation-interne-%C3%A9lection-sous-tension",
-   "source": "RFI (FR)",
-   "published": "2026-11-11T06:25:22+00:00",
-   "found": "2026-11-11T18:07:14.855681+00:00",
-   "priority": "normal",
-   "tags": [
-    "guerre"
-   ],
-   "title_tr": "DRC/Ruanda çatışması ve iç çekişmeler: OIF'de gergin bir seçim",
-   "summary_tr": "16 Kasım'da Uluslararası Frankofoni Örgütü'nün (OIF) Devlet ve Hükûmet Başkanları, Kamboçya'da ilk kez oylama yoluyla Genel Sekreterlerini seçebilirler. KDC-Ruanda rekabeti, nüfuz savaşı ve görevden ayrılan kişinin performansına yönelik kurum içi eleştiriler arasında, yarış nadiren bu kadar çekişmeli olmuştur."
-  },
-  {
-   "id": "a9cd600c581fa504",
-   "title": "RDC: Aubin Minaku, ancien président de l'Assemblée nationale placé en résidence surveillée",
-   "summary": "En République démocratique du Congo, l’ancien président de l’Assemblée nationale Aubin Minaku n’est plus détenu dans un cachot secret. Après dix mois de détention sous la responsabilité du Conseil national de cyberdéfense, qui dépend de la présidence, puis de la justice militaire, Minaku a été transféré mardi soir à son domicile, dans la capitale. Il y est désormais placé en résidence surveillée, ",
-   "link": "https://www.rfi.fr/fr/afrique/20261111-rdc-aubin-minaku-ancien-pr%C3%A9sident-de-l-assembl%C3%A9e-nationale-r%C3%A9sidence-surveill%C3%A9e-maison",
-   "source": "RFI (FR)",
-   "published": "2026-11-11T05:23:45+00:00",
-   "found": "2026-11-11T18:07:14.866952+00:00",
-   "priority": "normal",
-   "tags": [
-    "militaires"
-   ],
-   "title_tr": "DKC: Aubin Minaku, eski Ulusal Meclis Başkanı ev hapsine alındı",
-   "summary_tr": "Demokratik Kongo Cumhuriyeti'nde, Ulusal Meclis'in eski Başkanı Aubin Minaku artık gizli bir hapishanede tutulmuyor. Cumhurbaşkanlığına bağlı Ulusal Siber Savunma Konseyi'nin ve ardından askeri yargının sorumluluğunda on ay tutuklu kaldıktan sonra Minaku, salı akşamı başkentteki evine nakledildi. Artık orada ev hapsinde tutuluyor."
   }
  ]
 }
