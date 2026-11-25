@@ -1,6 +1,6 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-24T18:40:19.211919+00:00",
+ "generated_at": "2026-11-25T02:56:25.331667+00:00",
  "sources": [
   {
    "source": "BBC",
@@ -35,10 +35,26 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 11
+   "count": 13
   }
  ],
  "items": [
+  {
+   "id": "ffd99e93193af240",
+   "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+   "summary": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
+   "link": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-24T23:39:13+00:00",
+   "found": "2026-11-25T02:56:20.870195+00:00",
+   "priority": "normal",
+   "tags": [
+    "clashes",
+    "rebel"
+   ],
+   "title_tr": "Demokratik Kongo Cumhuriyeti'nde isyancı grup, hükümet güçleriyle yaşanan şiddetli çatışmaların ardından geri çekildi",
+   "summary_tr": "CRP, Uganda'nın aracılık ettiği hükümetle yapılan görüşmelerde verilen sözleri gerekçe göstererek Bunia'ya doğru ilerlemeyi durdurmuştur."
+  },
   {
    "id": "6c20825f61f35633",
    "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
@@ -903,20 +919,6 @@
    ],
    "title_tr": "DKC: Aubin Minaku, eski Ulusal Meclis Başkanı ev hapsine alındı",
    "summary_tr": "Demokratik Kongo Cumhuriyeti'nde, Ulusal Meclis'in eski Başkanı Aubin Minaku artık gizli bir hapishanede tutulmuyor. Cumhurbaşkanlığına bağlı Ulusal Siber Savunma Konseyi'nin ve ardından askeri yargının sorumluluğunda on ay tutuklu kaldıktan sonra Minaku, salı akşamı başkentteki evine nakledildi. Artık orada ev hapsinde tutuluyor."
-  },
-  {
-   "id": "fc7dc7fcbadc07aa",
-   "title": "Congo's Ebola cases surpass 11,000, government data show",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNTBUbS1fR3ZNTHducjFuYVpfcjJCWDllelJrQTZLMXBGUkRlZVlhdlNXV3RCS3RLUGVTTE90NEF3b0d4bE1NT3ZZbVE1VEQzVmMybk1HTXRtdzJMcGtPeU9LQi16T2ZyNS1hQzBLNzgxMkR6VWFJS0JLdUxobWlPUjhyWEtuQjN3Q3lqNC1HeUJPaWc0Ym1hMnE4YktSbGFsallBYTN1MzljcGhzeVJiS2lEUm9qSWhmbFBWM1d1ZVdwYnM?oc=5",
-   "source": "Reuters",
-   "published": "2026-11-10T23:19:08+00:00",
-   "found": "2026-11-11T18:07:15.414878+00:00",
-   "priority": "normal",
-   "tags": [
-    "ebola"
-   ],
-   "title_tr": "Hükümet verileri, Kongo'daki Ebola vakalarının sayısının 11 bini aştığını gösteriyor"
   }
  ]
 }
