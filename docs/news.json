@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-26T03:58:01.573217+00:00",
+ "generated_at": "2026-11-26T13:43:15.464047+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 30
+   "count": 32
   },
   {
    "source": "Al Jazeera",
@@ -25,7 +25,7 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "source": "Reuters",
@@ -35,10 +35,73 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 27
+   "count": 53
   }
  ],
  "items": [
+  {
+   "id": "1a24b626a776e80f",
+   "title": "RD Congo : le personnel médical contre Ebola menacé par les combats",
+   "summary": "En République démocratique du Congo, les tensions sécuritaires et diplomatiques se sont accrues dans la province de l'Ituri, dans l'Est du pays. La reprise des combats entre l'armée congolaise et les hommes du CRP fait craindre une propagation de l’épidémie d’Ebola. Le dernier bilan de l'organisation mondiale de la santé fait état de 5 575 décès. Les explications d'Aurélie Bazzara-Kibangula, corre",
+   "link": "https://www.france24.com/fr/vid%C3%A9o/20261126-rd-congo-le-personnel-m%C3%A9dical-contre-ebola-menac%C3%A9e-par-les-combats",
+   "source": "France 24 (FR)",
+   "published": "2026-11-26T11:17:01+00:00",
+   "found": "2026-11-26T13:43:05.056470+00:00",
+   "priority": "normal",
+   "tags": [
+    "armee",
+    "combats",
+    "ebola"
+   ],
+   "title_tr": "Demokratik Kongo Cumhuriyeti: Ebola ile mücadele eden sağlık personeli çatışmalar nedeniyle tehdit altında",
+   "summary_tr": "Demokratik Kongo Cumhuriyeti'nde, ülkenin doğusundaki Ituri eyaletinde güvenlik ve diplomatik gerilimler arttı. Kongo ordusu ile CRP üyeleri arasındaki çatışmaların yeniden başlaması, Ebola salgınının yayılmasına dair endişelere yol açmaktadır. Dünya Sağlık Örgütü'nün son raporunda 5.575 ölüm olduğu belirtiliyor. Aurélie Bazzara-Kibangula'nın açıklamaları, muhabir"
+  },
+  {
+   "id": "e57662d687ca260d",
+   "title": "Ebola outbreak in Congo reaches 12,000 cases as violence forces some responders to evacuate",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOODk5TW1rbDA5Ml84Vzh3OWVzdW12UkFLbXJzQlZSbG9rNTQxZGl1bjBPQ1FsNURnQ21MU3FFX1RqZFVDdzJrSXR5YkRTTndHcERGWUpyaklFeWxlQ2l4aXhKT1ctM1cwMDdtOHg5RHQ3ZmhqVTIyWFVHUWdHSG40WExZWkJSM1lZNndDSFBlbEdNNnM?oc=5",
+   "source": "AP",
+   "published": "2026-11-26T09:22:00+00:00",
+   "found": "2026-11-26T13:43:06.239958+00:00",
+   "priority": "high",
+   "tags": [
+    "ebola",
+    "outbreak",
+    "violence"
+   ],
+   "title_tr": "Kongo'daki Ebola salgını 12.000 vakaya ulaşırken şiddet olayları bazı yardım görevlilerinin tahliye edilmesine neden oldu"
+  },
+  {
+   "id": "ac8c749c46024b5b",
+   "title": "DR Congo demands answers over Ugandan general's threats",
+   "summary": "Gen Kainerugaba threatened a rebel takeover of a mineral-rich area in DR Congo in controversial X posts.",
+   "link": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "published": "2026-11-26T07:24:39+00:00",
+   "found": "2026-11-26T13:43:04.681633+00:00",
+   "priority": "normal",
+   "tags": [
+    "rebel"
+   ],
+   "title_tr": "DR Kongo, Ugandalı generalin tehditleriyle ilgili cevaplar talep ediyor",
+   "summary_tr": "General Kainerugaba, tartışmalı X paylaşımlarında isyancıların Demokratik Kongo Cumhuriyeti'ndeki maden bakımından zengin bir bölgeyi ele geçirmesiyle tehdit etti."
+  },
+  {
+   "id": "0ea12c83c42fbfa9",
+   "title": "Congo's Ebola cases exceed 12,000 as responders struggle to contain outbreak",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUkt4SEJRQUV2dDAxRi1DbDRsOXlhVWhfNVZvRTRzbDhTYzN0R1JiN0tUbFVpMGF1LTlweUtaRTVySVphaDVRdTBJNmZhdzRMVUt0cTc0c0FPOTJuc3RMYTEyOTJZM3B0bnBJdm9PRGtIMk9LUHk4dXhrRnV0OE1zSDRtRTNlWXFOanJlQnNYbHBERUNfdDhMc2c0SGFFX1JnSnNIWWNvTjQwSUpRWVdlTE1DOElDVXhKRTROUUhOM0lxbVozZ01PN1F3eDZldXQ3dUtNVXhlMA?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-26T05:29:00+00:00",
+   "found": "2026-11-26T13:43:05.803629+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola",
+    "outbreak"
+   ],
+   "title_tr": "Müdahale ekipleri salgını kontrol altına almakta zorlanırken Kongo'daki Ebola vakaları 12.000'i aştı"
+  },
   {
    "id": "12cb6ff5fa86c78a",
    "title": "RDC: le chef de l'armée ougandaise menace d'intervenir dans le pays, Kinshasa réclame des explications",
@@ -940,52 +1003,6 @@
     "ebola"
    ],
    "title_tr": "Afrika Hastalık Kontrol ve Önleme Merkezi (CDC), sağlık çalışanlarına yönelik saldırıların Kongo'daki Ebola mücadelesini engellediği uyarısında bulundu"
-  },
-  {
-   "id": "5c3f7fbc37d7ffef",
-   "title": "RDC: l’ONU ajoute le Front pour la refondation de la Nation à sa liste de mouvements sous sanctions",
-   "summary": "Le comité des sanctions de l’ONU sur la République démocratique du Congo a ajouté, le 11 novembre le Front pour la refondation de la Nation (FRN) à sa liste. Le mouvement dirigé par l’ancien président Joseph Kabila est déjà connu sous un autre nom à savoir l’Alliance Fleuve Congo. Kinshasa salue la décision.",
-   "link": "https://www.rfi.fr/fr/afrique/20261112-rdc-onu-ajoute-frn-front-refondation-nation-liste-de-mouvements-sous-sanctions-afc",
-   "source": "RFI (FR)",
-   "published": "2026-11-12T13:20:48+00:00",
-   "found": "2026-11-12T16:36:59.378529+00:00",
-   "priority": "normal",
-   "tags": [
-    "alliance fleuve congo",
-    "sanctions"
-   ],
-   "title_tr": "KDC: BM, Ulusun Yeniden Kuruluşu Cephesi'ni yaptırım uygulanan hareketler listesine ekledi",
-   "summary_tr": "Birleşmiş Milletler'in Demokratik Kongo Cumhuriyeti'ne yönelik yaptırımlar komitesi, 11 Kasım'da Ulusun Yeniden Kuruluşu Cephesi'ni (FRN) listesine ekledi. Eski Cumhurbaşkanı Joseph Kabila liderliğindeki hareket, Kongo Nehri İttifakı olarak bilinen başka bir adla zaten tanınıyor. Kinşasa bu kararı memnuniyetle karşıladı."
-  },
-  {
-   "id": "39ee3f8be1118fed",
-   "title": "Kenya : le dernier patient atteint du virus Ebola officiellement guéri",
-   "summary": "Le Kenya ne compte officiellement plus aucun malade du virus Ebola, le dernier patient recensé étant sorti guéri de l'hôpital, se sont félicité mercredi 11 novembre les autorités. Le 6 octobre, le pays d'Afrique de l'Est avait déclaré le premier cas confirmé d'Ebola de son histoire, après le décès à son retour au pays d'un Kényan qui vivait en RDC. Les précisions de Bastien Renouil, correspondant ",
-   "link": "https://www.france24.com/fr/vid%C3%A9o/20261112-kenya-le-dernier-patient-atteint-du-virus-ebola-officiellement-gu%C3%A9ri",
-   "source": "France 24 (FR)",
-   "published": "2026-11-12T13:18:36+00:00",
-   "found": "2026-11-12T16:36:59.151385+00:00",
-   "priority": "normal",
-   "tags": [
-    "ebola"
-   ],
-   "title_tr": "Kenya: Ebola virüsü bulaşan son hasta resmen iyileşti",
-   "summary_tr": "Yetkililer, 11 Kasım Çarşamba günü yaptıkları açıklamada, kayıtlı son hastanın iyileşerek hastaneden taburcu olmasıyla birlikte Kenya'da artık resmî olarak hiçbir Ebola virüsü hastasının kalmadığını memnuniyetle duyurdu. 6 Ekim'de Doğu Afrika ülkesi, Demokratik Kongo Cumhuriyeti'nde yaşayan bir Kenyalı'nın ülkesine döndükten sonra hayatını kaybetmesinin ardından tarihinde ilk kez doğrulanmış Ebola vakasını bildirmişti. Muhabir Bastien Renouil'den ayrıntılar"
-  },
-  {
-   "id": "013d6ceb233a854d",
-   "title": "Congo Ebola outbreak still out of control after six months, MSF says",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdGYtSlBocHpZUE9ldnZXb054T1V0c012WkVoTVNFeW81R3FBek1zVzY4NjV1dnYtM3k1d1BGcU1wcEJtbnJYcjQ1eWRpZU1UT0hfVUM0NzZOaFFmd19HZE5TUmVzWTh1M044V1NCYl9DdDBEOEpoclVtdHlOdlNaMmJPeVJhMW41Zi1OU1VYZzBiOVRxRTEtUFZleFdFdXNXQXZmdGpDT0JaaWx1Wk5OckRSU3lxXzBWdWFRdnVhRTg3X3ZkVjBucU1pOXlyOWdYVUE?oc=5",
-   "source": "Reuters",
-   "published": "2026-11-12T05:06:00+00:00",
-   "found": "2026-11-12T16:37:00.055982+00:00",
-   "priority": "normal",
-   "tags": [
-    "ebola",
-    "outbreak"
-   ],
-   "title_tr": "MSF, Kongo'daki Ebola salgınının altı ay sonra hâlâ kontrol altına alınamadığını söylüyor"
   }
  ]
 }
