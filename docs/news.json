@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-25T21:55:19.895358+00:00",
+ "generated_at": "2026-11-26T03:58:01.573217+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 32
+   "count": 30
   },
   {
    "source": "Al Jazeera",
@@ -35,10 +35,43 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 100
+   "count": 27
   }
  ],
  "items": [
+  {
+   "id": "12cb6ff5fa86c78a",
+   "title": "RDC: le chef de l'armée ougandaise menace d'intervenir dans le pays, Kinshasa réclame des explications",
+   "summary": "En République démocratique du Congo (RDC), nouvelle tension diplomatique entre Kinshasa et Kampala. Le gouvernement congolais a convoqué le représentant de l’ambassade d’Ouganda après une série de déclarations du chef de l’armée ougandaise, Muhoozi Kainerugaba. Sur le réseau social X, le général a menacé de faire avancer ses troupes sur le territoire congolais et affiché son soutien à une progress",
+   "link": "https://www.rfi.fr/fr/afrique/20261126-rdc-le-chef-de-l-arm%C3%A9e-ougandaise-menace-d-intervenir-dans-le-pays-kinshasa-r%C3%A9clame-des-explications",
+   "source": "RFI (FR)",
+   "published": "2026-11-26T03:20:45+00:00",
+   "found": "2026-11-26T03:57:52.658293+00:00",
+   "priority": "normal",
+   "tags": [
+    "armee"
+   ],
+   "title_tr": "Kongo Demokratik Cumhuriyeti: Uganda ordusu komutanı ülkeye müdahale etmekle tehdit ediyor, Kinşasa açıklama talep ediyor",
+   "summary_tr": "Demokratik Kongo Cumhuriyeti'nde (DKC), Kinşasa ile Kampala arasında yeni bir diplomatik gerilim yaşanıyor. Kongo hükümeti, Uganda ordusu komutanı Muhoozi Kainerugaba'nın bir dizi açıklamasının ardından Uganda Büyükelçiliği temsilcisini çağırdı. General, X sosyal medya platformunda askerlerini Kongo topraklarına ilerletmekle tehdit etti ve bir ilerlemeye desteğini açıkladı."
+  },
+  {
+   "id": "8c552cbc22ed8bde",
+   "title": "Mali : le JNIM lance un ultimatum aux habitants de Tonka",
+   "summary": "Dans cette édition, direction le Mali, où le JNIM donne jusqu’à vendredi aux habitants de Tonka, dans la région de Tombouctou, pour quitter la ville avant la mise en place d’un blocus. Pourquoi cet ultimatum et quelles conséquences pour la population ? En RDC, la reprise des combats en Ituri entre l’armée congolaise et les rebelles de la CRP complique la riposte face à l’épidémie d’Ebola, faisant ",
+   "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261126-mali-le-jnim-lance-un-ultimatum-aux-habitants-de-tonka",
+   "source": "France 24 (FR)",
+   "published": "2026-11-26T00:03:50+00:00",
+   "found": "2026-11-26T03:57:52.389287+00:00",
+   "priority": "normal",
+   "tags": [
+    "armee",
+    "combats",
+    "ebola",
+    "rebelles"
+   ],
+   "title_tr": "Mali: JNIM, Tonka sakinlerine ültimatom verdi",
+   "summary_tr": "Bu sayıda Mali'ye gidiyoruz. JNIM, Timbuktu bölgesindeki Tonka sakinlerine abluka uygulanmadan önce şehri terk etmeleri için cuma gününe kadar süre veriyor. Bu ültimatom neden verildi ve halk için ne gibi sonuçları olacak? Kongo Demokratik Cumhuriyeti'nde (KDC), Kongo ordusu ile CRP isyancıları arasında Ituri'de çatışmaların yeniden başlaması, Ebola salgınına karşı müdahaleyi zorlaştırıyor ve"
+  },
   {
    "id": "5635a7748e027764",
    "title": "Cape Town court shuts down Ramaphosa's Farmgate scandal",
@@ -85,6 +118,20 @@
     "outbreak"
    ],
    "title_tr": "Doğu Kongo'daki çatışmalar Ebola çalışanlarını tahliyeye zorluyor, salgına müdahaleyi tehdit ediyor"
+  },
+  {
+   "id": "247ef6286204e79f",
+   "title": "Families say they cannot locate bodies of relatives in Ebola-hit Congo city",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSW5OelBkejVqZDRFN0lDSzdXb0ZFQ2N4ZVVjbnZVcTc5dlNDNExJQkNRQzhXQzYzcDI4cFQyQjEtMEhpY0R1YmhmTHV6YktKaDB5RXFrTF9PaGwtUE84aEJuejVtTU9JQkRRVVZWWGdUQS1QVVk3RlJIZUMyUHdMbjZHNDFQTVpSTWNrQVl4NTdnSldSaEVYS2dlRkhGYUR0VEhPeE92YTY3dWxxdXItVjJTR2l6RHVtQk9IU3VwU1lyOUZBS05NRm1vd2tTSFRBbGZ2el9qbXg?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-25T19:26:22+00:00",
+   "found": "2026-11-26T03:57:53.369840+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola"
+   ],
+   "title_tr": "Aileler, Ebola'nın vurduğu Kongo şehrinde akrabalarının cesetlerini bulamadıklarını söylüyor"
   },
   {
    "id": "d6a556c7a1a7bf2e",
