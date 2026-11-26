@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-26T13:43:15.464047+00:00",
+ "generated_at": "2026-11-26T22:50:06.138559+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "source": "Al Jazeera",
@@ -25,7 +25,7 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "source": "Reuters",
@@ -35,10 +35,26 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 53
+   "count": 25
   }
  ],
  "items": [
+  {
+   "id": "2e2287678a061089",
+   "title": "ACROSS AFRICA: Tunisian Photographer's Family Focus",
+   "summary": "Stories from the continent with Georja Calvin-Smith. This week, health workers struggling to keep pace with DR Congo's Ebola outbreak say they feel abandoned and unsupported. Also, the World Cup was about more than winning... for some fans, at least. Tunisia's performance may not have been all that its supporters had hoped, but sports photographer Hosni Manoubi is far from negative about a family ",
+   "link": "https://www.france24.com/en/across-africa-tunisian-photographer-s-family-focus-1",
+   "source": "France 24",
+   "published": "2026-11-26T16:19:12+00:00",
+   "found": "2026-11-26T22:49:59.146653+00:00",
+   "priority": "normal",
+   "tags": [
+    "ebola",
+    "outbreak"
+   ],
+   "title_tr": "AFRİKA GENELİNDE: Tunuslu Fotoğrafçının Aile Odaklı Çalışması",
+   "summary_tr": "Georja Calvin-Smith ile kıtadan haberler. Bu hafta, Demokratik Kongo Cumhuriyeti'ndeki Ebola salgınına ayak uydurmakta zorlanan sağlık çalışanları kendilerini terk edilmiş ve desteksiz hissettiklerini söylüyor. Ayrıca, Dünya Kupası kazanmaktan daha fazlasını ifade ediyordu... En azından bazı taraftarlar için. Tunus'un performansı taraftarlarının umduğu gibi olmamış olabilir ancak spor fotoğrafçısı Hosni Manoubi, bir aile hakkında olumsuz düşünmekten çok uzak."
+  },
   {
    "id": "1a24b626a776e80f",
    "title": "RD Congo : le personnel médical contre Ebola menacé par les combats",
@@ -195,6 +211,38 @@
     "ebola"
    ],
    "title_tr": "Aileler, Ebola'nın vurduğu Kongo şehrinde akrabalarının cesetlerini bulamadıklarını söylüyor"
+  },
+  {
+   "id": "3567eb9ece419eca",
+   "title": "UN peacekeepers evacuate Ebola response workers trapped by fighting in eastern Congo",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWTZXWDF3TWQxMnpmcmY3djFMVzVoYXRZa2xic21XLWR3SnZFZ19uLXJJelJwR1lVQVh6WV9UVkFlRThndkF3UlFOUVNyRzVoUV9KOEw2UTZYR0NWc0xBeUFlQlZKQmMtd2YySXJVd0E1cXpDLVRLN2RVSzhINDZsYzBqX2Vxd3NBRWotQlE0dHpGd1pWdk1zb2Z0cE5CUXRuMnNaZWpYWVlpOThKT3dvOEQ4R0JmaVp2TmJPVlVxNHNlZw?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-25T18:25:43+00:00",
+   "found": "2026-11-26T22:49:59.930002+00:00",
+   "priority": "high",
+   "tags": [
+    "ebola",
+    "fighting",
+    "peacekeepers"
+   ],
+   "title_tr": "BM barış güçleri, Doğu Kongo'daki çatışmalar nedeniyle mahsur kalan Ebola müdahale görevlilerini tahliye etti"
+  },
+  {
+   "id": "8503a99a77d85b10",
+   "title": "Families say they cannot locate dead relatives in Congo Ebola outbreak",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QRFNLX0FnQ0NoOGI5V0xRRm5pNVQ5NnVsMzBrWmpPVlVBRjh2R3B5U09fNlR5Mm5aa2VIUVdnQnJRd3FQNjF1STk5RHhVTjV5VGZzS3R1Mkh4dXdMYmh6R2FFaWloeEhoUXdMWVVNR2s4RndmY3M4?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-25T17:14:34+00:00",
+   "found": "2026-11-26T22:49:59.929867+00:00",
+   "priority": "high",
+   "tags": [
+    "dead",
+    "ebola",
+    "outbreak"
+   ],
+   "title_tr": "Aileler, Kongo'daki Ebola salgınında ölen akrabalarını bulamadıklarını söylüyor"
   },
   {
    "id": "d6a556c7a1a7bf2e",
@@ -975,34 +1023,6 @@
    ],
    "title_tr": "Demokratik Kongo Cumhuriyeti: Birleşmiş Milletler'in çeşitli kuruluşlarına göre, özellikle doğuda gıda ihtiyacı artıyor",
    "summary_tr": "Demokratik Kongo Cumhuriyeti'nde yaklaşık 29 milyon kişi gıda krizinden etkilenmektedir. Bunlar, Gıda Güvensizliğinin Ciddiyetini Değerlendiren ve Sınıflandıran, WFP, FAO, UNICEF ve diğer ortaklar tarafından koordine edilen bir araç olan Entegre Gıda Güvenliği Sınıflandırma Çerçevesi (IPC) tarafından yayımlanan en son verilerdir. Ve önümüzdeki aylara ilişkin tahminleri de..."
-  },
-  {
-   "id": "f452256a5407f405",
-   "title": "Barrick furloughs some employees at Congo mine as Ebola precaution, memo says",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbml1ZVlXcG1yWF9mWnNpdkZmd3JkUG9NWm1GRko2MHBkdWxqRm5DWU1RZWNlSWh1MHhqMXhSMm9idGJxTU1MQkFIQTU5cUdfSDYwQWhROEY1UTlMaFEyeTBpXzFzZWxjTU1NOUxOS0lheFdVZUNMQmMtMEx2bV9kUGVMdVlTMExRdUJnMkxUVDBvOFZxSHFRVjJFanVtUGI3WWZQdDU5NlEzYV9YM0RjNVczTHVFTlJkNDNKTENidy1pRVJveVQxTy1lSVl4ZmpjbUt0aDFuRXd4dw?oc=5",
-   "source": "Reuters",
-   "published": "2026-11-12T20:21:02+00:00",
-   "found": "2026-11-13T18:40:00.298739+00:00",
-   "priority": "normal",
-   "tags": [
-    "ebola"
-   ],
-   "title_tr": "Bildiriye göre Barrick, Ebola önlemi olarak Kongo'daki madeninde bazı çalışanlarını izne ayırdı"
-  },
-  {
-   "id": "86f0912375f29c72",
-   "title": "Attacks on health workers hamper Congo Ebola fight, Africa CDC warns",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVjFjS1duU1pZR2ZyYkJKTzlRaW5Nemw5TlF5aS1PbkhZbFdPeDNSMXFRVXJXTjdUcmNjVEJ5YkkycHhyTXJubzdFazBxVEpVcks4Zl8zZzNZbExoRFB6cDFiLUs2aGNDa1F4aXRKTHN2RnRQUURvSHNrSmpCNmZ6N0dmcVZQWl9RbklDaUw0WkdaelRJaHkzZUlpT2J0a1BlQmt0TVNPSEg3V3Q1ckFZQlVpMUdtYUV4RFRlcWlyNXU2THV1di00bTF1bFQyOW5Ma0E?oc=5",
-   "source": "Reuters",
-   "published": "2026-11-12T15:08:09+00:00",
-   "found": "2026-11-13T03:10:13.293227+00:00",
-   "priority": "normal",
-   "tags": [
-    "ebola"
-   ],
-   "title_tr": "Afrika Hastalık Kontrol ve Önleme Merkezi (CDC), sağlık çalışanlarına yönelik saldırıların Kongo'daki Ebola mücadelesini engellediği uyarısında bulundu"
   }
  ]
 }
