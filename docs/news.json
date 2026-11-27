@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-27T14:43:32.609973+00:00",
+ "generated_at": "2026-11-27T23:15:11.585372+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 30
+   "count": 32
   },
   {
    "source": "Al Jazeera",
@@ -25,7 +25,7 @@
   {
    "source": "RFI (FR)",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "source": "Reuters",
@@ -35,10 +35,58 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 19
+   "count": 18
   }
  ],
  "items": [
+  {
+   "id": "0bfabeb7d86ee3e3",
+   "title": "Uganda to withdraw troops from DR Congo",
+   "summary": "First, Uganda is heading for the exit in eastern DR Congo. Kampala has announced the withdrawal of its troops from a key town in North Kivu, as relations with Kinshasa deteriorate following provocative comments from Uganda's army chief. Then, pregnant women are struggling to cope with extreme heat, while health experts warn of growing risks for unborn babies, from dehydration to premature births. ",
+   "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20261127-uganda-to-withdraw-troops-from-dr-congo",
+   "source": "France 24",
+   "published": "2026-11-27T21:44:29+00:00",
+   "found": "2026-11-27T23:15:00.784521+00:00",
+   "priority": "normal",
+   "tags": [
+    "army",
+    "troops",
+    "violence"
+   ],
+   "title_tr": "Uganda, askerlerini Demokratik Kongo Cumhuriyeti'nden çekecek",
+   "summary_tr": "İlk olarak, Uganda Doğu Demokratik Kongo Cumhuriyeti'nden çekilmek üzere. Kampala, Uganda ordusu komutanının kışkırtıcı açıklamaları sonrasında Kinşasa ile ilişkilerin bozulması üzerine askerlerini Kuzey Kivu'daki önemli bir kentten çekme kararı aldığını duyurdu. Öte yandan hamile kadınlar aşırı sıcaklarla başa çıkmakta zorlanırken sağlık uzmanları dehidrasyondan erken doğumlara kadar doğmamış bebekler için artan risklere karşı uyarıyor."
+  },
+  {
+   "id": "b79f0bbf66fceebb",
+   "title": "Uganda to withdraw troops from DR Congo town after army chief's threat sparks row",
+   "summary": "Uganda's army on Friday said it planned to withdraw from the eastern DR Congo town of Lubero in North Kivu. The announcement came days after Ugandan army chief Muhoozi Kainerugaba – son of President Yoweri Museveni – threatened to take control of Walikale, another North Kivu town, sparking a diplomatic spat between the two neighbouring nations.",
+   "link": "https://www.france24.com/en/africa/20261127-uganda-withdraw-troops-dr-congo-town-after-army-chief-threat-row",
+   "source": "France 24",
+   "published": "2026-11-27T17:56:28+00:00",
+   "found": "2026-11-27T23:15:00.785574+00:00",
+   "priority": "normal",
+   "tags": [
+    "army",
+    "troops"
+   ],
+   "title_tr": "Ordu komutanının tehdidinin tartışma yaratmasının ardından Uganda, Demokratik Kongo Cumhuriyeti'ndeki kasabadan askerlerini çekiyor",
+   "summary_tr": "Uganda ordusu cuma günü yaptığı açıklamada, Demokratik Kongo Cumhuriyeti'nin doğusunda, Kuzey Kivu eyaletinde yer alan Lubero kasabasından çekilmeyi planladığını bildirdi. Bu açıklama, Uganda ordusu komutanı ve Cumhurbaşkanı Yoweri Museveni'nin oğlu Muhoozi Kainerugaba'nın Kuzey Kivu'da bulunan bir başka kasaba olan Walikale'yi ele geçirmekle tehdit etmesinin ardından gelmiş ve iki komşu ülke arasında diplomatik bir gerilime yol açmıştı."
+  },
+  {
+   "id": "35a53c340bcf6577",
+   "title": "RD Congo : le ton monte entre Kinshasa et l'armée ougandaise, déployée dans l'Est",
+   "summary": "L'armée ougandaise a déclaré vendredi qu'elle prévoyait de se retirer de la ville de Lubero, dans l'est de la République démocratique du Congo, et a accusé des milices proches de Kinshasa de multiplier les exactions dans la région.",
+   "link": "https://www.france24.com/fr/afrique/20261127-rd-congo-ton-monte-entre-kinshasa-arm%C3%A9e-ougandaise-d%C3%A9ploy%C3%A9e-est-lubero-nord-kivu",
+   "source": "France 24 (FR)",
+   "published": "2026-11-27T17:34:49+00:00",
+   "found": "2026-11-27T23:15:00.870573+00:00",
+   "priority": "normal",
+   "tags": [
+    "armee"
+   ],
+   "title_tr": "Demokratik Kongo Cumhuriyeti: Kinşasa ile doğuda konuşlandırılan Uganda ordusu arasındaki gerilim artıyor",
+   "summary_tr": "Uganda ordusu Cuma günü, Demokratik Kongo Cumhuriyeti'nin doğusundaki Lubero kentinden çekilmeyi planladığını açıkladı ve Kinşasa'ya yakın milisleri bölgedeki zulümleri artırmakla suçladı."
+  },
   {
    "id": "9c744befbf70e004",
    "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
@@ -939,54 +987,6 @@
    ],
    "title_tr": "Macron uzlaşma arayışındayken Demokratik Kongo Cumhuriyeti ile Ruanda arasında Frankofoni liderliği konusunda anlaşmazlık yaşanıyor",
    "summary_tr": "Komşu ülkeler arasındaki gerilim 53 üyeli örgütün başkanlığı için verilen mücadeleye yansırken, Demokratik Kongo Cumhuriyeti ve Ruanda Cumartesi günü Frankofoni'nin başkanlığı konusunda karşı karşıya geldi. Fransa Cumhurbaşkanı Emmanuel Macron, pazartesi günkü oylama öncesinde Ruanda'yı uzlaşmacı bir aday lehine kendi adayını geri çekmeye çağırdı."
-  },
-  {
-   "id": "40bd7e1f67780925",
-   "title": "RDC: au moins 44 morts civils tués dans de nouvelles attaques des ADF dans le nord-est du pays",
-   "summary": "Africa CDC, le Centre africain de contrôle et de prévention des maladies rattaché à l’Union africaine, a fermement condamné l’attaque meurtrière contre des civils à Cantine, en territoire de Beni, au Nord-Kivu, dans la nuit du 5 au 6 novembre. Une attaque dans une zone où sévit l’épidémie d’Ebola et qui a été attribuée au mouvement jihadiste ADF, qui a prêté allégeance à l’organisation État islami",
-   "link": "https://www.rfi.fr/fr/afrique/20261113-rdc-au-moins-44-morts-civils-tu%C3%A9s-dans-de-nouvelles-attaques-des-adf-dans-le-nord-est-du-pays",
-   "source": "RFI (FR)",
-   "published": "2026-11-13T18:49:12+00:00",
-   "found": "2026-11-14T00:11:33.002766+00:00",
-   "priority": "high",
-   "tags": [
-    "adf",
-    "attaque",
-    "ebola",
-    "morts",
-    "tues"
-   ],
-   "title_tr": "Demokratik Kongo Cumhuriyeti: Ülkenin kuzeydoğusunda ADF'nin düzenlediği yeni saldırılarda en az 44 sivil hayatını kaybetti",
-   "summary_tr": "Afrika Birliği'ne bağlı Afrika Hastalık Kontrol ve Önleme Merkezi (Africa CDC), 5-6 Kasım gecesi Kuzey Kivu'nun Beni bölgesinde bulunan Cantine'de sivillere yönelik düzenlenen ölümcül saldırıyı şiddetle kınadı. Ebola salgınının hüküm sürdüğü bir bölgede gerçekleşen ve İslam Devleti örgütüne bağlılık yemini eden cihatçı ADF hareketine atfedilen bir saldırı"
-  },
-  {
-   "id": "2aa0cfae32019971",
-   "title": "Ebola en RDC: «On ne comprend pas pourquoi l'argent n'arrive pas dans les poches des travailleurs», interroge MSF",
-   "summary": "Six mois après la déclaration de l'épidémie d'Ebola en République démocratique du Congo, la situation reste hors de contrôle. Plus de 11 000 cas et 5 000 décès ont été enregistrés. Médecins sans frontières dénonce aujourd'hui un paradoxe : des centaines de millions de dollars ont été mobilisés pour combattre l'épidémie mais, sur le terrain, les soignants manquent toujours de moyens, les dispositif",
-   "link": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique-midi/20261113-ebola-en-rdc-on-ne-comprend-pas-pourquoi-l-argent-n-arrive-pas-dans-les-poches-des-travailleurs-interroge-msf",
-   "source": "RFI (FR)",
-   "published": "2026-11-13T16:57:34+00:00",
-   "found": "2026-11-13T18:39:59.667594+00:00",
-   "priority": "normal",
-   "tags": [
-    "ebola"
-   ],
-   "title_tr": "KDC'de Ebola: \"Paranın neden çalışanların cebine girmediğini anlamıyoruz\" diye soruyor MSF",
-   "summary_tr": "Demokratik Kongo Cumhuriyeti'nde Ebola salgınının ilan edilmesinden altı ay sonra, durum hâlâ kontrol edilemiyor. 11.000'den fazla vaka ve 5.000 ölüm kaydedildi. Sınır Tanımayan Doktorlar bugün bir çelişkiyi kınamaktadır: Salgınla mücadele için yüz milyonlarca dolar seferber edilmiş olmasına rağmen, sahada sağlık çalışanları hâlâ kaynaklardan yoksun durumdadır, sistemler"
-  },
-  {
-   "id": "11cf526612844fa4",
-   "title": "Attacks on health workers are 'hampering' Congo's Ebola fight, says CDC",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ybV9wak9RS0d4Q1IzWWxuM3o5M0o4RnVHRGRKU2xielZ6a3hOclBiNXhMUEt0ZVdZb1dqSnBrUkk1bk9aUHhhZW5wMmlVODVMTzFIUmlqZUxDUkFCbk1CQlIyUUh5dkE?oc=5",
-   "source": "Reuters",
-   "published": "2026-11-13T15:23:26+00:00",
-   "found": "2026-11-13T18:40:00.311383+00:00",
-   "priority": "normal",
-   "tags": [
-    "ebola"
-   ],
-   "title_tr": "CDC, sağlık çalışanlarına yönelik saldırıların Kongo'nun Ebola ile mücadelesini \"engellediğini\" söylüyor"
   }
  ]
 }
