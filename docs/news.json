@@ -1,11 +1,11 @@
 {
  "title": "DRC Güvenlik Radarı",
- "generated_at": "2026-11-27T23:15:11.585372+00:00",
+ "generated_at": "2026-11-28T04:52:49.311343+00:00",
  "sources": [
   {
    "source": "BBC",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "source": "Al Jazeera",
@@ -35,10 +35,25 @@
   {
    "source": "AP",
    "ok": true,
-   "count": 18
+   "count": 17
   }
  ],
  "items": [
+  {
+   "id": "f47deb9c47023d2f",
+   "title": "RDC: l'armée ougandaise annonce son retrait dans l'Est, Kinshasa et Kampala tentent d'apaiser les tensions",
+   "summary": "Les relations entre Kinshasa et Kampala traversent une nouvelle zone de turbulences. L’armée ougandaise annonce le prochain retrait de ses troupes de Lubero, dans l’est de la République démocratique du Congo (RDC), tout en accusant des milices alliées au pouvoir congolais de massacrer des civils. Une annonce qui intervient après les déclarations controversées du chef d’état-major ougandais, Muhooz",
+   "link": "https://www.rfi.fr/fr/afrique/20261128-rdc-l-arm%C3%A9e-ougandaise-annonce-son-retrait-dans-l-est-kinshasa-et-kampala-tentent-d-apaiser-les-tensions",
+   "source": "RFI (FR)",
+   "published": "2026-11-28T03:36:11+00:00",
+   "found": "2026-11-28T04:52:45.157908+00:00",
+   "priority": "normal",
+   "tags": [
+    "armee"
+   ],
+   "title_tr": "KDC: Uganda ordusu doğudan çekildiğini duyurdu, Kinşasa ve Kampala gerilimi yatıştırmaya çalışıyor",
+   "summary_tr": "Kinşasa ile Kampala arasındaki ilişkiler yeni bir türbülans döneminden geçiyor. Uganda ordusu, Kongo Demokratik Cumhuriyeti'nin (KDC) doğusundaki Lubero'dan askerlerini yakın zamanda çekeceğini duyururken, Kongo hükümetiyle ittifak hâlindeki milisleri sivilleri katletmekle suçluyor. Bu açıklama, Uganda Genelkurmay Başkanı Muhoozi'nin tartışmalı açıklamalarının ardından geldi."
+  },
   {
    "id": "0bfabeb7d86ee3e3",
    "title": "Uganda to withdraw troops from DR Congo",
